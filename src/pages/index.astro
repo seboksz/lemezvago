@@ -1,0 +1,59 @@
+---
+import SearchBox from "../components/SearchBox.tsx";
+import { getCollection } from "astro:content";
+const episodes = await getCollection("episodes");
+episodes.sort((a, b) => (a.data.date < b.data.date ? 1 : -1));
+import "../layouts/Layout.astro";
+---
+
+<html lang="hu">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Metal archívum kereső</title>
+  </head>
+  <style>
+    .search-sticky {
+      position: sticky;
+      top: 0;
+      z-index: 10;
+      background: var(--bg, #fff);
+      padding: 12px 0;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+    }
+  </style>
+  <body>
+    <main
+      style="max-width: 900px; margin: 32px auto; padding: 0 16px; display: grid; gap: 18px;"
+    >
+      <h1>Magyar metal antológia archívum</h1>
+
+      <p style="display:flex; gap:12px; flex-wrap:wrap;">
+        <a href="/random">🎲 Random album</a>
+        <a href="/bongeszes">📚 Böngészés stílus/év szerint</a>
+      </p>
+
+      <p style="opacity:.85">
+        Keress előadóra / albumra / kulcsszóra. A találat album-szekció szinten
+        ugrik.
+      </p>
+
+      <div class="search-sticky">
+        <SearchBox client:load />
+      </div>
+      <hr />
+
+      <h2>Epizódok</h2>
+      <ul style="display:grid; gap:8px; padding-left: 18px;">
+        {
+          episodes.map((ep) => (
+            <li>
+              <a href={`/epizodok/${ep.slug}`}>{ep.data.title}</a>
+              <span style="opacity:.75"> — {ep.data.date}</span>
+            </li>
+          ))
+        }
+      </ul>
+    </main>
+  </body>
+</html>

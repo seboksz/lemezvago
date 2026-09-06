@@ -1,0 +1,185 @@
+---
+title: "2017/1"
+season: null
+episode: 1
+date: ""
+youtube: "https://youtu.be/"
+tags: ["hungarian metal", "archívum"]
+---
+
+## Jogos Önvédelem - Az akarat diadala - 2017.01.01 Ezt a lemezt olyan helyről sikerült kitúrni, ahova amúgy kurvára nem merészkednék. Valszeg minden más helyről felhasználási feltételek megsértése miatt ki lett bannolva. Ennek oka pedig a nagyon ostoba, szélsőjobber antiszemita, de faszt mondjuk ki, ez színtiszta náci szövegek miatt. Idegengyűlelet és neofasiszta szólamok, istentelen kényelmetlen propagandaszerű versek. Ezek másznak fel úgy-ahogy pontosan az amúgy nem annyira szar zenére. Az átlag skinhead zenékhez képest kimondottan összetett és kimunkált zene. De ez a kibaszott xenofób fröcsögés undorítóbb, mint bármilyen belezős goregrind. Okádhatnékom van ettől a mocsoktól!
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+[https://www.youtube.com/watch?v=0ttbw8LdyQ4](https://www.youtube.com/watch?v=0ttbw8LdyQ4)  [https://t.me/antikomcsizene/32](https://t.me/antikomcsizene/32)
+
+## Messenger - Tudat-alatt - 2017.01.01 Na sikerült bekezdni a 2017-es évet…Valami kurva kényelmetlen thrash lemez ez. Egyszerre akar Moby Dick és Akela lenni, de a nagy igyekezetben elfelejtettek értelmes szöveget írni és eredmény egy morcos és mélyrehangolt átlagos thrash album, ami azért csak elvérzik a mondanivaló oltárán. Családtag legyen a talpán, aki erre azt mondja, hogy “ez igen, srácok!”
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Story - In Aeternum - 2017.01.01 Egységsugarú heavy metal muzsika, de fasza szövegeivel véteti magát észre a banda, ha már a nevével nem annyira sikerült. De tényleg hogy sikerült ilyen semmitmondó nevet választani?? Tényleg a versek az erőssége a bandának és emellett bátran nyúlnak érzékenyebb témákhoz, mint például az ukrán nép sorstragédiaja, a Holodomor. De minden más témában is okos és jól megírt sorokkal és jól működő bemondásokkal nyomulnak. Van egy ilyen erős 90-es évek magyar metal vibe-ja az egésznek, tényleg fasza az egész. Amúgy a gitáros vokálos csávó másik bandáját, az Inhalator-t már boncolgattuk itt korábban - érezni azért a közös igazodási pontokat a két projekt között.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Ann My Guard - Ourania - 2017.01.15 2014-es évadban volt már már Anna itt vendég és már akkor is csupa jókat mondtam és a második lemezük még az előzőnél is jobb lett. Nagyon jó hangulata van ennek a viszonylag rövidke albumnak. Nincs fél óra az egész, de az legalább tartalmasan telik el. Szolid hard rock alapokon nyugszik a muzsika és kis extrákkal dobják fel, mint vonósok, fuvósok, zongorakíséret. A népdal vonal is egészen autentikusan és organikusan épül be az Obsidian Tears c. dalba, egyetlen pillanatig sem volt kínos, nagyon szépen átgondolt album ez. Két csúcspontja talán a Callisto és a Hakate, de e két csúcspont között is nagyon szórakoztató az album.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Astru/Nagaarum - ...a mizantrópia és elidegenedés újabb értelmezései... split - 2017.01.21 Ez egy split és tudom, hogy alapvetően ezek nem játszanak, de hogy tudnám kihagyni, amikor Astru és Nagaarum, a pusztító nyomasztás hazai helytartói összeállnak, hogy valami nagyon sötét fekete dolgot teremtsenek. Nagyon feszült és tenyérizzadós zajkeltés, ami mögé-mellé szemét módon élhető és szerethető melódiákat szerkesztettek. Pontosan tudod, hogy szét leszel nyomasztva, tudod hogy jön az a lelket szaggató és őrjítő hangulat, de lebegtetik a kényelmesre komponált dallamokat, amitől még kényelmetlenebb és kétségbeejtőbb az egész. Külön-külön is megterhelő dolgokat tudnak az asztalra tenni, de ez a kollab azért kemény. De van némi perverzió abban, amikor  a végére kezded átélni, szeretni az albumot..
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Effrontery - Seven Years of Agony - 2017.01.26 Ez az album egy gyászmunka eredménye. A zenekar amúgy a kétezres évek eleje óta nyomja a halál-metalját, de ez a lemez személyes érintettség okán nagyon mélyre megy. (gitáros srác apuja halt meg hosszú szenvedés után). Hektikus és fájdalmasan lelket szaggató death metal cucc ez. Billeg az oldszkúl dm és az északi melodeath között folyamatosan, néha bejön egy prog death, még a Schuldiner féle Death érából. Szóval amennyire durva és nehéz lehetett a való életben átélni ezt a fájdalmas időszakot, annyira megterhelő ezt az albumot feldolgozni. Zeneileg hibátlan, de a hangulata nagyon ingadozó, szaggatott és csapkodó - de ezen semmi meglepő nincs.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Avenford - New Beginning - 2017.01.27 A 2014-es lemezüket már hallgattuk itt, jófajta power metal stílusgyakorlat volt az a lemez és nagyjából ugyanaz a világot hozzák el újra, de valamivel ez a lemez jobban sikerült, mint az előző. Ez az album az első pillanattól kezdve egy lendületes, pontos, jól sodró metalt pakol elénk. A stílus legjobb elemeit igyekeznek egymás mögé rakni, emiatt tényleg egy fasza kiadvány az eredmény, de azért felismerhetőek az ihletett panelek. Rhapsody, Dragonforce, Firewind hatásokat mindenképp felismerni muzsikájukban. De ettől még ez egy nagyon jól sikerült power metal lemez, aki éli ezt a zsánert, sürge keressen rájuk.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Burnout - Új évezred rapszódia - 2017.02.03 Az előző lemezükkel még a 2013-as évadban foglalkoztam és jó volt, de nem nyert meg, nem lett a kedvencem. Viszont ez baszki! Ennek az epizódnak az egyik, ha nem a legjobb lemeze. Érett és átgondolt album és amellett, hogy zeneileg is teljesen oké hard-rock lemez, a szövegek annyira rohadtul jól működnek, hogy mérföldeket ver az előző alkotásukra. Minden soruk univerzális, a mai napig működő versek. Kurvajó album, egyértelműen 10 pontos rock lemez. A 2019-es lemezükkel még egyszer lesznek ők itt vendégek, de akkor sajnos utoljára, mert 2023-ban feloszlott.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Ordog - Sötétanyag - 2017.02.03 Engedjétek meg elfogultságomat a zenekarral kapcsolatban. Óriási kedvenc az Ördög és szerintem ez a legjobb lemezük a három közül. Annak idején valószínűleg nagyon jó időben talált el és milliószor meghallgattam ezt a lemezt. A Keringő, a 100 év magány, vagy Sátántangó zseni csúcspontjai a lemeznek, de többi is kiváló, sőt az egész kiadvány überfasza. Vörös Andris hangja és Szentpéteri Zsolt gitárjátéka, kettejük több évtizedes szimbiózisa ezen a lemezen is kiemelkedő eredményt hoz. Mondom elfogult vagyok, nekem ez a 2017-es év legjobb magyar lemeze.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Туман - Zuhanás - 2017.02.05 A Tuman-ról már volt itt szó, fura szerzetek ők is hazai black metal palettán, pedig elég nagy a merítés. Erdély mélyéről kaparják fel nekünk a fekete témákat és erős 90-es évek hangulatával festve. És ugyan nagyon új dolgot nem mutatnak, a második hullámos black metal keretein belül maradva egész hangulatos fekete fém korongot hoznak. A magyar nyelvű szövegek, ha elkapja az embert, akkor adnak egy extra réteget a hangulatnak és ennek a sötét atmoszférának.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Lord - Lord 45 - 2017.02.11 Először is jobbulást Pohl Misinek innen is, kívánjuk, hogy  térjen vissza mielőbb a deszkákra. Nem véletlenül kapta a lemez a 45 címet. 2017 már a Lord 45. születésnapját ünnepelte. Elképesztő, az ember esze megáll. És alapvetően a Lord nem tud és szerintem nem is akar másfajta zenét játszani, mint a 90-es évek elején. Hogy most ez előny vagy hátrány, én nem tudom eldönteni - de a lényeg, hogy ez egy vegytiszta fasza kis Lord album lett. És igen, pontosan hallom, hol szalajt a összkép, hol bicsaklik meg az album. Hogy a korosodó rockerek Hargitába és Nagy Magyarországba révedése miért kínos. Hogy melyek azok a pillanatok, ahol talán már nem annyira érezték az idő változását. De vannak kimondottan kellemes és simogató pillanatok a lemezen, ami miatt nem egy konstans boomer kínlódás az egész. Hiteles és önazonos album a vén rockerektől, apró hibákkal.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Athame - Hódító - 2017.02.12 Jó hangulatú és főleg jó minőségű black metal Szegedről, magyar nyelven károgják el mondanivalójukat főleg háború, halál és pusztulás témakörökben és minden kliséje ellenére szórakoztató és kellemes elvonulós mélázást adott az album. A fekete fém közé kevernek némi halálmetal hangulatot is, emiatt talán működik jobban az egész. Könnyen elviszi az embert a muzsika, én hajlamos voltam nem a szövegre figyelni, pedig azzal sincs alapvetően nincs gáz, hozzák a szokásos fordulatokat. Nem annyira újszerű, nem annyira friss, de ezt az oldszkúl pokolmetalt egészen hitelesen és pontosan hozzák. Patent kis cucc ez.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Pete - Daily Chaos Intake II - 2017.02.26 Jó hangulatú stílusparádé a dark-tól a doom-on át a groove-ot érintve egészen a grunge-ig. A vokál témákkal nem voltam mindig kibékülve, volt egy-két pillanat, amikor kimondottan zavart, de az elszállósabb etapok tényleg tök jól sikerültek. A lemez vége szépen lesimul, enyhén andalító ambient-be pörög át, de alapvetően háttérmuzsikának elég jó
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## The Void - Nullified - 2017.03.01 A szegedi srácok bemutatkozó albumát anno nagyon kajáltam. Fasza, modern köntösbe öltöztetett melodeath cucc volt patika hangzással. Erre a lemezükre annyira már nem emlékszem, szóval itt volt az ideje pótolni. A Soilwork, Scar Symmetry hatások persze itt sem maradtak el, de talán egy kicsit mintha több lenne itt az samplerezés, mint a 2013-as Unraveling lemezen. De ez egyáltalán nem negatív felhang. Tovább nyomták ezt a északi metalból levezethető minőségi muzsikájukat és újra egy nagyszerű lemezt pakoltak elénk. Nekem egy picit a debüt album jobban bejön, de ez is bőven kurvajó.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Green Hell - Zárkózz fel! - 2017.03.07 “Zárkózz fel kistáska!” Az első címadó dal alatt végig azon járt az agyam, de rohadt hosszú 40 perc lesz ez. És aztán a lemez további részétől se voltam sokkal jobban feldobva, de alapvetően a többi dal jobban sikerült, mint a címadó, vagy egyszerűen hozzászoktam a színvonalhoz. Zeneileg semmi újdonság, alap thrash muzsika, szokásos riffekkel és szólókkal, csapkodó dobokkal és a St Angerből itthagyott sound-dal, de azért voltak jó pillanatok. Például a Világbéke címe dal egészen jól sikerült én talán e köré húztam volna fel a lemezt. Ugyanakkor bántóan bárgyú pillanatok elveszik az ember kedvét, holott társadalmilag érzékenyek, ezt hallani, csak nem mindig sikerül jól tollbamondani ezeket. Alapszintű thrash a műfajjal ismerkedőknek, de szerintem ezt azé’ hamar kinövi az ember.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Infernal Antarctica - From the Depths of the Earth - 2017.03.09 Számtalan demo és EP mellett a Heves megyei srácoknak ez az egyetlen nagylemezük és sok cicózás nincsen. Úgy három másodperc alatt érik el a végsebességet, amivel aztán végigszántják a lemezt. Jah, nem mondtam, hogy régisulis black metal, de gondolom közben azért ez kiderült. Blastbeat végig, szokásos blekker riffek és koszos hangzás jellemzi a lemezt, mondhatni semmi extra, de valahogy mégsem volt unalmas az album. Szigorú és kemény menet a pokolba és vissza és talán egy picit komolyabban is veszik magukat, mint kéne, de sikerül nem kínosba fordulniuk. Fülessel hallgatva a magas hangok valamiért furán túl voltak vezérelve, emiatt extrán kényelmetlen a lemez és még ennek ellenére is tudod nyomot hagyni a lemez, hát még egy jó keveréssel mennyivel többet mutathattak volna.. kár érte.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Corrodal - Liquidators - 2017.03.11 Az előző lemezüket nagyon szerettem, még a 2013-as évadban beszéltem róluk, jófajta instru okoskodás ment a lemezen gazdag progresszív elemekkel. És nagyjából ott folytatódik a lemez, ahol az előző véget ért: mélázós és itt-ott azért monotonba hajló témázgatás. Tessék időt hagyni ennek a  lemeznek, ez nem valami 1x1 heavy metal, ide türelem kell és hajlandóság arra, hogy szépen lassan megegyen a muzsika. És bár néha sikerül rommá-fossá bonyolítani a témákat, de ez alapvetően nagyon penge muzsika
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Phobos - Fehér mélység - 2017.03.13 Két dal fél óra és valamiféle elektronikával kevert nagyon koszos black metal zajlik előttünk. Vársás Gábor Miskolcról ontja ránk a világról alkotott véleményét és leginkább a Shum nevű projektje lesz majd itt releváns, aminek keretében kismillió metalt is érintő albumot csinált emberünk. Majd amikor Bandcampet dolgozunk fel, akkor kitérünk ott a 2017-es munkásságára. Itt leginkább ambient jellegű, enyhén drone-nal kevert blekker elszállást kapunk az első 15 perces session-ben. A lemez másik fele, mintha a hangfal előtt felejtettek volna egy mikrofont.. de biztos én nem értem a magas művészetet.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Paediatrician - Intrauterine Infection - 2017.04.01 A gyerekorvos visszatért és ha lehet, prosztóbb, mint valaha. Annyira kibaszott beteg az lemez intro-ja, hogy arra nincsenek szavak. Utána pedig persze a maximumra tekert goregrind. Én csak a lemez címét dobtam be a keresőbe, azonnal meg is bántam, mert valami várandósság alatti fertőzésre utal - ezek az elbaszott elmeroggyantak pedig egy komplett albumot szenteltek, hogy ezt a témát kibontsák. Komolyan adódik a kérdés, hogy mi a fasz bajotok van nektek?! Persze hozzá lehet szokni ehhez a szélvész daraboláshoz, egészen magas szinten hozzák a grind kliséket, meg úgy se érteni egy szót se, hogy mit takarnak ezek a malac sikítások - de bazmeg akkor is. És érteni vélem, hogy azért jutunk el egyre durvább zenékhez, mert a korábbiakat már megszoktuk és mindig feljebb kerül az ingerküszöb - de tényleg nincs olyan téma, amit nem nyitunk meg?
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Hant - Arisen - 2017.04.04 Mindössze négy betű a banda neve, de működik magyarul is és többé-kevésbé angolul is, kurvajó név, nagyon szeretem, amikor van ötlet és kreativitás ezen a téren is. És amúgy tökéletesen passzol a zenéhez is, amit tolnak. Instrumentális doom projekt, amibe azért itt-ott belemar némi black és némi avantgarde élmény is, de simán elférne rajta az ambient címke is. Nagyjából minden remekül működik, amit az albumon csinálnak, énektémák nélkül is remekül festik ezt a temetői hangulatot, nagyon szomorú és lemondó az egész lemez hangulata, az elmúlt nyári napokat megcsúfoló szeles-esős fos időjárás tökéletes zenei aláfestése. És amit a lemez végén a Mad World klasszikussal csináltak, bámulat.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Ignominious - The Throne and the Altar - 2017.04.07 Iszonyatos dobhangzással nyomuló, a 90-es évek második hullámos black metalját megidéző lemez ez a kiskőrösi alakulattól. Amikor zenei irányt és stílust választottak, abban nagyjából kódolva is volt az is, hogy az újdonságra való törekvés nem lesz a zenekar mottója. De minden genyáskodásom ellenére, amiben utaznak, azt jól csinálják. Semmi új, semmi különleges, de mégis jól sodor ez az alap disszonáns blekker alapokra felhúzott stílusgyakorlat. Messziről látszik, hogy millió albumot meghallgattak a témában, mielőtt kipróbálták maguk is, hogy tudnak-e ilyet. És tudnak, a műfaj elkötelezettjei szerintem nem csalódnak, legfeljebb ebben a kibaszott szarul csörömpölő dobcájgban, ami úgy szól, mint öreganyám lyukas vájlingja.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+És itt, ezen az ünnepi pillanaton engedjétek meg, hogy egy pillanatra megálljak elmélázni és visszatekinteni. Augusztusban lesz egy éve, hogy elkezdtem ez a kis vállalkozást, ezt a kultúrmissziót \- ha nagy szavakat akarok használni \-  és azóta lement 4 év feldolgozása, most kezdtük meg az ötödiket és meghallgattam 500 albumot. Ha semmi mást nem hallgattam volna, ez akkor is durva \- de azért pörgött ezen kívül az aktuális lemezekből is néhány… Az eredeti tervek szerint ez már az összes feldolgozandó lemezek kétharmada lenne (66%, nem választási ⅔), de mivel közben átalakult, bővült a Bandcamp-es lemezekkel, így kb. talán a felénél (sem) tartunk. Szóval természetesen folytatás következik, megyünk tovább a 2017-es évad feldolgozásával, az következő merítés első lemezei után egészen bizakodó vagyok, de majd meglátjuk \- maradjatok akkor is velem\!
+
+Undorító szélsőjobber fröcsögés  
+Kényelmetlen thrash csörömpölések  
+Veterán rockerek öreguras veretése  
+Belezős grind etüdök

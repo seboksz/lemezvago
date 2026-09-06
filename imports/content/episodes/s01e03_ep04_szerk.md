@@ -1,0 +1,72 @@
+---
+title: "2013/3"
+season: null
+episode: 3
+date: ""
+youtube: "https://youtu.be/"
+tags: ["hungarian metal", "archívum"]
+---
+
+## Ten Years in Haven - Art of Haven (2013.06.21)  [https://soundcloud.com/art-of-haven/sets/ten-years-in-haven](https://soundcloud.com/art-of-haven/sets/ten-years-in-haven)  Egy teljesen instrumentális album a múltból, aminek rohadtul nem kellene instrunak lennie. A legtöbb dalban üvölt, hogy ott a verzének a hely van/volt meghagyva - de mintha valamiért ez így maradt volna. Amúgy tök jó témák vannak felzenélve a korongra, egy karakteres vokalistával ez egy faszán működő lemez lehetett volna. Így ez nekem egy erős, tényleg erős demó.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Erdei regék - Isatha (2013.06.25)  [Erdei Regék - Album by Isatha | Spotify](https://open.spotify.com/album/6uyYmwUr6yt7CJzYb7SAAL)  Ha van metal zsáner, ami kiakaszt, az a folk metal…ennek minősített esete, amikor death metallal igyekeznek egy vegyíteni. Nem létezik, hogy a végeredmény ne egy parodisztikus baromság legyen. Az Erdei regék sem tud kijönni ebből jól. Masszív izzadságszaggal próbálják megtalálni az egyensúlyt a népzene és halálhörgés között, de a legritkább esetben sikerül ezt szép átmenettel megoldani. Ráadásul az összes dal szinte ugyanolyan… Értem én, hogy a Korpiklaani vonatra fel kellett ülni, de már az is kínos vol, hát még a nemzeti copycat-ek.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Edge of Another World - Firn (2013.07) (mp3)  Újabb atm. black metal csapás a múltból, Attilától, akiről lövésünk sincs, hogy kicsoda. Egyszemélyes projekt, viszont fizikailag bakeliten jelent meg, szóval nem szarral gurigázás ment anno. Koszos és nyers blekk károgás, ami ugyan nagy trve és underground, de nem annyira hoz sok újdonságot. A műfaj kötelező elemeit magabiztosan szállítja, de kb. ennyi.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Duplacsavar - Twister (2013.07.01)  [Duplacsavar - Album by Twister | Spotify](https://open.spotify.com/album/4hggLPGCoIYu4aPkMj1POi)  Vegytiszta magyar rákenroll. Belépő szintű lakossági heavy metal, fogós és táncolható dallamokkal. A dalok tök jól szólnak, szövegek is rendben vannak, persze a 4.x-en túl már itt-ott mosolygósak a témák, de a fiatal generációnak ideális a bevonódásra a könnyű és egyszerűen értelmezhető dolgaikkal.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Devil's Nectar - Apey and the Pea (2013.07.09)  [Devil's Nectar - Album by Apey & the Pea | Spotify](https://open.spotify.com/album/3wTjfqdfScl0mNgrQqBZmL)  Anno ez a lemez a szerkesztőségi év végi listákon is ott figyelt, annyira kurvajó lemez ez. Áron Andris vezette most már Lazarvs néven nyomuló banda azóta is tartja a tempót és hozza a jobbnál jobb lemezeket, de ez volt első nagylemezük és hát baromi erős slugde-doom cucc ez. Kimunkált és okos riffelések, sötét és arcbataposó témák és persze profi sound. Messze kilóg a mai merítésből.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## The Moonlight Guarding My Dreams - Omens Thorns (2013.07.31) [Omens Thorns -In The Dream Of Dreams-](https://www.youtube.com/watch?v=n5t1X9XslN8)  Régisulis blackmetal, egyszemélyes gyerekszoba projekt, amiből összesen két dalt sikerült felkutatni a youtube-on. Ez alapján a hangzás a kései 80-as évekből valónak hat, amivel mindjárt a kritikámat is megfogalmaztam. Semmi új, semmi meglepő: koszos fekete metal károgással.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Akusztik - Astur (2013.08.05)  [Akusztik [2013] | Astur](https://astur.bandcamp.com/album/akusztik-2013)  Ez a rész igazán próbára tesz: a második folk cucc is befutott…Az Astur Egerből suhint oda, ahol a legjobban fáj. Az valami akusztikus izé, közel se metal valami, szóval utána néztem, hogy mit tettek keményebb hangszereléssel. Ti ne tegyétek, ha jót akartok. A korábbi próbálkozásaik szörnyű borzasztó termékek, így az egyetlen nagylemezük ez, ami inkább már népzenei gyűjtemény, semmi keresnivalója itt, hagyjuk is..
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Gyáva angyal - Vida Rock Band (2013.08.05) [Gyáva angyal - Album by Vida Rock Band | Spotify](https://open.spotify.com/album/2lDM6UTrkV9MIjQrYtCUsk)  Vida Ferenc zenekara. Az a Vida Ferenc, aki 2005-ig a szombathelyi Lord zenekart grüdolta. A fiatalabb generációnak talán nem sokat mond a Lord, de mi tudjuk, hogy a 80-as és 90-es évek legsikeresebb vidéki rockzenekara volt. Ezt a hard rock vonalat viszi tovább Vida Rock Band. Fülbemászó dallamos zene, egészen jó koncertkompatibilis szövegek. Sajnos Vida Feri hirtelen 2017-es halála miatt nem sokáig futott a banda, még egy nagylemez fért bele 2015-ben. Szóval ha a korpás halántékoddal valami ős-Lord zenére nosztalgiáznál, a Gyáva angyal lesz a Te barátod
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:

@@ -1,0 +1,25 @@
+---
+import RandomBox from "../components/RandomBox.tsx";
+import "../layouts/Layout.astro";
+---
+
+<html lang="hu">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Random album</title>
+  </head>
+  <body>
+    <main
+      style="max-width: 900px; margin: 32px auto; padding: 0 16px; display: grid; gap: 18px;"
+    >
+      <a href="/" style="text-decoration:none;">← Vissza a keresőhöz</a>
+      <h1>Random album</h1>
+      <p style="opacity:.85">
+        Dobáljunk elő rejtett gyöngyszemeket. Szűkíthetsz stílusra/évre/linkre.
+      </p>
+
+      <RandomBox client:load />
+    </main>
+  </body>
+</html>

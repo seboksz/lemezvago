@@ -1,0 +1,195 @@
+---
+import { getCollection } from "astro:content";
+import { sectionizeByH2 } from "../../lib/sectionize";
+import "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+  const episodes = await getCollection("episodes");
+  return episodes.map((ep) => ({
+    params: { slug: ep.slug },
+    props: { ep },
+  }));
+}
+
+const { ep } = Astro.props;
+const sections = sectionizeByH2(ep.body);
+function withTimestamp(url: string, at?: number | null) {
+  if (!at) return url;
+  const sep = url.includes("?") ? "&" : "?";
+  return `${url}${sep}t=${at}`;
+}
+
+function formatTimestamp(sec: number) {
+  const h = Math.floor(sec / 3600);
+  const m = Math.floor((sec % 3600) / 60);
+  const s = sec % 60;
+  return h > 0
+    ? `${h}:${String(m).padStart(2, "0")}:${String(s).padStart(2, "0")}`
+    : `${m}:${String(s).padStart(2, "0")}`;
+}
+---
+
+<html lang="hu">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{ep.data.title}</title>
+    <style>
+      .linkbar {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        margin: 8px 0 10px;
+      }
+
+      .pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 6px 10px;
+        border-radius: 999px;
+        border: 1px solid rgba(0, 0, 0, 0.12);
+        text-decoration: none;
+        font-size: 14px;
+      }
+
+      .pill:hover {
+        border-color: rgba(0, 0, 0, 0.25);
+      }
+
+      .icon {
+        line-height: 1;
+      }
+
+      .tags {
+        display: flex;
+        gap: 8px;
+        flex-wrap: wrap;
+        margin-top: 10px;
+      }
+      .tag {
+        padding: 4px 8px;
+        border-radius: 999px;
+        border: 1px solid rgba(0, 0, 0, 0.12);
+        font-size: 12px;
+        opacity: 0.9;
+      }
+      .meta {
+        display: flex;
+        justify-content: space-between;
+        align-items: start;
+      }
+
+      .jump {
+        margin: 8px 0 10px;
+      }
+      .jump a {
+        text-decoration: none;
+        font-size: 14px;
+      }
+      .jump a:hover {
+        text-decoration: underline;
+      }
+    </style></head
+  >
+
+  <body>
+    <main
+      style="max-width: 900px; margin: 32px auto; padding: 0 16px; display: grid; gap: 18px;"
+    >
+      <a href="/" style="text-decoration:none;">← Vissza a keresőhöz</a>
+
+      <h1>{ep.data.title}</h1>
+      <div style="opacity:.8">
+        {ep.data.date}
+        {ep.data.season ? ` • ${ep.data.season}. évad` : ""}
+        {ep.data.episode ? ` • ${ep.data.episode}. epizód` : ""}
+      </div>
+
+      <p>
+        <a href={ep.data.youtube} target="_blank" rel="noreferrer"
+          >YouTube megnyitása</a
+        >
+      </p>
+
+      <hr />
+
+      {
+        sections.map((s) => (
+          <section>
+            <h2 id={s.slug}>{s.heading}</h2>
+            <div class="meta">
+              {(s.links.spotify || s.links.bandcamp || s.links.youtube) && (
+                <div class="linkbar">
+                  {s.links.spotify && (
+                    <a
+                      class="pill spotify"
+                      href={s.links.spotify}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <span class="icon" aria-hidden="true">
+                        🟢
+                      </span>
+                      Spotify
+                    </a>
+                  )}
+                  {s.links.bandcamp && (
+                    <a
+                      class="pill bandcamp"
+                      href={s.links.bandcamp}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <span class="icon" aria-hidden="true">
+                        🟣
+                      </span>
+                      Bandcamp
+                    </a>
+                  )}
+                  {s.links.youtube && (
+                    <a
+                      class="pill youtube"
+                      href={s.links.youtube}
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      <span class="icon" aria-hidden="true">
+                        🔴
+                      </span>
+                      YouTube
+                    </a>
+                  )}
+                </div>
+              )}
+
+              {(s.styles?.length ?? 0) > 0 && (
+                <div class="tags">
+                  {s.styles.map((g) => (
+                    <span class="tag">{g}</span>
+                  ))}
+                </div>
+              )}
+            </div>
+
+            {s.at ? (
+              <p class="jump">
+                <a
+                  href={withTimestamp(ep.data.youtube, s.at)}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  ▶ Ugrás a videóban ({formatTimestamp(s.at)})
+                </a>
+              </p>
+            ) : null}
+
+            <div style="white-space: pre-wrap; line-height: 1.45;">
+              {s.text}
+            </div>
+          </section>
+        ))
+      }
+    </main>
+  </body>
+</html>

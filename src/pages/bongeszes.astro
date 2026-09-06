@@ -1,0 +1,26 @@
+---
+import BrowseBox from "../components/BrowseBox.tsx";
+import "../layouts/Layout.astro";
+---
+
+<html lang="hu">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Böngészés – stílus / év</title>
+  </head>
+  <body>
+    <main
+      style="max-width: 900px; margin: 32px auto; padding: 0 16px; display: grid; gap: 18px;"
+    >
+      <a href="/" style="text-decoration:none;">← Vissza a keresőhöz</a>
+      <h1>Böngészés</h1>
+      <p style="opacity:.85">
+        Válassz stílust (és opcionálisan évet), és kilistázom az összes ide
+        tartozó albumot.
+      </p>
+
+      <BrowseBox client:load />
+    </main>
+  </body>
+</html>

@@ -1,0 +1,54 @@
+<div class="search">
+  <input
+    id="q"
+    type="search"
+    placeholder="Keress előadóra / albumra / kulcsszóra…"
+    autocomplete="off"
+  />
+  <div id="results" class="results"></div>
+</div>
+
+<!-- Ez már kliens oldalon töltődik -->
+<script type="module" src={Astro.resolve("../scripts/search.ts")}></script>
+
+<style>
+  .search {
+    display: grid;
+    gap: 12px;
+  }
+  input[type="search"] {
+    width: 100%;
+    padding: 12px 14px;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    font-size: 16px;
+  }
+  .results {
+    display: grid;
+    gap: 10px;
+  }
+  .card {
+    padding: 12px 14px;
+    border-radius: 12px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+  }
+  .title {
+    font-weight: 700;
+    text-decoration: none;
+  }
+  .meta {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    font-size: 13px;
+    opacity: 0.8;
+    margin-top: 6px;
+  }
+  .excerpt {
+    margin-top: 8px;
+    line-height: 1.35;
+  }
+  .muted {
+    opacity: 0.7;
+  }
+</style>

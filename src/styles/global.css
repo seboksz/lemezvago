@@ -1,0 +1,101 @@
+:root{
+  /* VS Code Dark+ vibe */
+  --bg: #1e1e1e;
+  --panel: #252526;
+  --panel-hover: #2d2d30;
+  --border: rgba(255,255,255,.10);
+
+  --text: #d4d4d4;
+  --muted: #9da0a6;
+
+  /* “editor blue” link */
+  --link: #3794ff;
+  --link-hover: #4fc1ff;
+
+  --radius: 12px;
+  --container: 920px;
+}
+
+/* base */
+html { color-scheme: dark; }
+body{
+  margin:0;
+  background: var(--bg);
+  color: var(--text);
+    font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    font-size: 18px;
+    line-height: 1.75;
+
+}
+
+/* container */
+.container{
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 28px 18px;
+}
+
+/* links */
+a{
+  color: var(--link);
+  text-decoration: none;
+  text-underline-offset: 3px;
+}
+a:hover{
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+a:focus-visible{
+  outline: 2px solid rgba(55,148,255,.35);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+/* headings – “editor” jelleg: nem óriási, inkább erős */
+h1, h2, h3{
+  line-height: 1.2;
+  letter-spacing: 0;
+  margin: 0.9em 0 0.35em;
+  color: #e7e7e7;
+}
+h1{ font-size: clamp(26px, 3vw, 40px); font-weight: 800; }
+h2{ font-size: clamp(18px, 2vw, 26px); font-weight: 700; }
+h3{ font-size: 16px; font-weight: 700; }
+
+/* paragraphs + lists */
+p{ margin: 0.75em 0; }
+.muted{ color: var(--muted); }
+ul, ol{ padding-left: 1.25em; }
+li{ margin: 0.55em 0; }
+
+/* cards (SearchBox találatok, random, stb.) */
+.card{
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  display: grid;
+  gap: 8px;
+}
+.card:hover{ background: var(--panel-hover); }
+
+.card.active{
+  border-color: rgba(55,148,255,.55);
+  box-shadow: 0 0 0 2px rgba(55,148,255,.18);
+}
+
+/* input */
+input, select, textarea{
+  background: var(--panel);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+input::placeholder{ color: rgba(212,212,212,.55); }
+input:focus, select:focus, textarea:focus{
+  outline: none;
+  border-color: rgba(55,148,255,.75);
+  box-shadow: 0 0 0 2px rgba(55,148,255,.18);
+}
+
+

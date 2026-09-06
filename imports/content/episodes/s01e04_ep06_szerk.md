@@ -1,0 +1,148 @@
+---
+title: "2013/4"
+season: null
+episode: 4
+date: ""
+youtube: "https://youtu.be/"
+tags: ["hungarian metal", "archívum"]
+---
+
+## Olaj a tűzre - Sex Action (2013.06.30) [Sex Action - Olaj a tűzre (full album)](https://www.youtube.com/watch?v=g6xaJHoCBxU) Lehet, nem tudtad, de 1990-93 közötti Sex Action trilógia után a Sex Action nem szűnt meg, holott közben Action-né is alakultak. 2005-ös Jöhet bármi után 2013 szinte vadiúj felállással (Szasza és Miksa kilépett) dobták össze a lemezt. Szex pia r’nroll típusú dirty rock és ami a 90-es évek elején friss és vagány volt, a 2013-ban, sőt 2024-ből hallgatva enyhén kínos és boomer. Jó kérdés, hogy 2024-ből hallgatva az eredeti Sex Action lemezeket, az miért nem kínos…nyilván rám is hat bőven a nosztalgiafaktor. De amellett, hogy nem túl erős lemez az Olaj a tűzre, azt érzem, hogy szinte szolgaian megpróbálták újraírni, lemásolni a korábbi Sex Action dalokat. Fura amúgy, hogy két tagot kicserélsz egy bandában és mennyire megváltozik a kémia…na, mindegy, inkább meghallgatom a 90-es debüt albumot…
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Delirium Aeternum - Niedergang (2013.08.23) [Delirium Aeternum | Niedergang](https://niedergang.bandcamp.com/album/delirium-aeternum)  A borító alapján itt se lövünk mellé: black metal a téma. De végre ezt végig is tudtam hallgatni. Klasszikus blekker, de van íve, húzása és valami, amit az itt megjelenő átlag blekker albumok nem tudnak: stílusa. Természetesen érződik rajta a Tormentor, Mayhem, Darkthrone tisztelet, de ez akkor is bitangul jól szól és élmény volt hallgatni.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Ingyen Isten - Words of Blood (2013.09.03) [Ingyen Isten - Album by Words Of Blood | Spotify](https://open.spotify.com/album/3L3ijHlsqMuSUqAgdG4qpw)  A feszes és vészjósló intro alatt végig azt mormoltam magamban: “csak ne basszátok el - csak ne basszátok el!!!” És szerencsére nagyon nem is teszik. Magukat power metal metalnak mondják én inkább thrashnek nézlek cula. A szövegek se annyira gázosak, pár dal kivételével jól elvoltam mellette, de inkább zeneileg erősek. Fasza negyvenpár percet hoznak a fővárosi ifjak. Kár, hogy azóta se hallottam róluk, de majd a 2016-os részeknél majd elcsípjük őket még egyszer..
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Shopping a mennyben - Bearfood  (2013.09.06) [https://bearfood.bandcamp.com/](https://bearfood.bandcamp.com/)  Budapest srácok, akik annak idején az anyatejjel Black Sabbath-ot szívtak magukba. Ez a lemez is ezt tükrözi, meg persze azt is, hogy ebből levezetve, hogy értik ők a stoner-t és a sludge-ot, macis csillagállás alatt. Ez volt az utolsó nagylemezük, státuszuk kérdéses. Kissé sablonos itt-ott unalmas, de főleg lassabb és mélázósabb metalt nyomnak, vannak jól elkapott pillanatok a lemezen, amire könnyen megindul az ember talpa - de sajnos ezekre a pillanatokra sokat kell várni.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Kapaszkodj, amíg bírsz! - Dolmen  (2013.09.16) Lelkes alter-rock rock, gondosan ügyelve arra, hogy ne keményedjen fel metalig a cucc. Olyan kényelmetlen lemez, mert a zene és a szöveg is (so-so) amúgy rendben van, de olyan, mintha ezt két részt nem erre a lemezre tervezték összerakni. Rohadt furán működik együtt a kettő itt, egyszerűen nem illik a zene a szövegre, vagy fordítva. Majd’ megőrültem, míg hallgattam. Az volt az érzésem, mint amikor amikor böngészés közben valahol még szól egy egyik böngésző tab-on a zene, de nem találom, hogy honnan jön…wááá…de a Hontalan vágy dal miatt viszont jár a pirospont!   [https://dolmen.bandcamp.com/album/kapaszkodj-am-g-b-rsz](https://dolmen.bandcamp.com/album/kapaszkodj-am-g-b-rsz)
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Nekem így jó - Ördögárok  (2013.09.14)  [https://www.youtube.com/@ordogarok/videos](https://www.youtube.com/@ordogarok/videos)
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+Igazi garázsrock Dunaújvárosból. Kb az album felét sikerült kitúrni a yt-ról, korai Tankcsapda és Sing-Sing hatásokat vélek felfedezni a dalokban, amik azért üvöltenek egy jó hangmérnökért (vagy aki ismeri kicsit jobban a masteringet). Egyszerű képletekkel dolgoznak a srácok. Igazi időutazás érzése van az embernek a 90-es évek elejére. Elég egy kaptafára készültek a dalok amúgy \- kicsit unalmacska
+
+## Noxious Foodies - Run Over Dogs (2013.09.16) [Noxious Foodies - Album by Run Over Dogs | Spotify](https://open.spotify.com/album/6q4L3iniOLa5Y8FmD6k1pb) Méltatlanul elfelejtett és elhanyagolt banda Budapestről, akik valami lassú alter-rockot játszanak, de valami elképesztő jó feelingje van az egész albumnak. Semmi világmegváltás, nincs nagy varázslat, csak riffek és dallamos témák. Alig több mint fél órában kényelmes blues-rockot pakolnak, pont úgy és annyit, amennyi kényelmes. Nagy találat!
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Marching for Liberty - Wisdom (2013.09.27) [Marching for Liberty - Album by Wisdom | Spotify](https://open.spotify.com/album/4xX2xkZ0wBfBn3MjvuWLky)  Óóóó, régi ismerős. Jó régen hallgattam őket! Minőségi heavy metal, a zsáner alapvetéseit remekül hozza a lemez. Nem kevés Helloween, vagy inkább Rhapsody?? utánérzés dalokban, de emiatt a nosztalgiafaktor elég erős, de ez egy világszínvonalú album. A műfaj szerelmeseinek ez egy kötelező darab - én inkább messziről követem a Wisdom-ot, nekem kicsit ez már kommersz heavy metal.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Még… - Steroid  (2013.10.09) [Steroid](https://steroid.bandcamp.com/album/m-g-2) Számomra teljesen ismeretlen egylemezes budapesti bagázs, akik klasszik rákenrollt játszanak, de olyan telitalálat ez a lemez, hogy majdnem leesett az állam. Az első 10 másodperc után minden figyelmem az övék volt… Tartalmas és érett szövegek jó nagy bemondásokkal -  csak pár helyen éreztem sablonosnak (pl. Mátrixban élünk…) Dallamos és könnyen értelmezhető témákkal, meg-megengedve maguknak, hogy itt-ott izmosabb riffekkel támadjanak. A gitárhősködések is nagyon ülnek, nincs túltolva - ízléses és kimért. Hatalmas felfedezés! Amúgy nagyjából fingom sincs mi lehet velük, utoljára 2020 körül posztolgattak a fb-on. Kár lenne értük, de legalább ez a fasza lemez itt marad mementónak.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Cult of Damnation - Earth Plague (2013.10.15) [Cult Of Damnation | Earth Plague](https://earthplague666.bandcamp.com/album/cult-of-damnation)  fekete halál metal Nagyatádról, nem tudom, mit tesznek ott az ivóvízbe, de igencsak sötéten látják a fiúk a világot ott Belső-Somogyban. A Sinful Eternity-s Patrik a banda fele, amúgy. Koszos oldszkúl death metalt kevernek itt-ott blekkeres témákkal. Nem annyira változatos lemez ez, leginkább a tempóval operálnak, néhol málházósabb, máskor gyorsabban tekerik a cájgot, de sok emléket nem okoz. Ezen kívül ez a formáció split, demo és ep anyagokat tud felmutatni.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Memento of Ancient Memories - Teurgia (2013.10.25) [Memento of Ancient Memories](https://teurgia.bandcamp.com/album/memento-of-ancient-memories)  Ismeretlen státuszú zenekar Nagykanizsáról, akik ezzel a lemezzel értek a legmesszebb. Pogány black metal stílusban rázzák a hangszereket és magyar mondakörből szerzik az ihletet. Meglepő módon nagyon szépen szól az egész cucc. Tisztán és érthetően  szólnak a hangszerek, főleg a basszust nagy öröm felfedezni egy ilyen blekker kiadványban, nem a szokásos koszos-mocskos hangzás van. Ettől mindjárt pár polccal magasabbra is kerül az anyag. Változatos és fület simogató melódiák keverednek a károgással, de ügyesen balanszíroznak a srácok a kötelező elemek és a kreatívan beemelt saját motívumok között. Remek produkció.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Iapetus - Omega Diatribe (2013.10.21) [IAPETUS | OMEGA DIATRIBE](https://omegadiatribe.bandcamp.com/album/iapetus)  Nekem ez a lemez megvan CD-n, ajándékba kaptam a kiadótól, amikor írtam anno a lemezről. Borzasztóan súlyos és nehéz lemez, de nagyon imádtam. Szerintem ők kerültek legközelebb a Meshuggah-hoz idehaza biztosan, de talán nemzetközi szinten is. Ez is messze van még tudom, de ennél közelebb nem nagyon tudtak sokan. Agyat lesimító matekolás végig a lemezen. Alaposan feltölti a fejedet zenével..
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Nincs ellenszer - Phoenix Rt (2013.10.25) [Nincs ellenszer - Album by Phoenix Rt | Spotify](https://open.spotify.com/album/1YJ1ZC0rU4AqUiQ6BsS4dx)
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+Felvidéki magyar rockzenekar bemutatkozó albuma ez a lemez. Az első két szerintem gyengébb dal után úgy feltámad a lemez (mint Jézus), hogy ilyen régen nem láttam. Fasza sodrós dallamok, kurvajó szövegekkel és könnyed hard-rokkolás. Annak idején mindenféle év felfedezettje, év újonca stb díjakat zsebeltek be \- nem annyira ok nélkül. Kurva ügyes rokkzenélés ez, nincs izzadságszag, nincs erőlködés \- nagyon tudtam szeretni. Ilyen zenéket lehet mutatni rockzenével ismerkedni vágyóknak..ideális.
+
+## Words of Silence - Sorronia (2013.10.28)  [SORRONIA - Words of Silence [FULL ALBUM]](https://www.youtube.com/watch?v=oUxJWcoGreM) Csajfrontos szimfonikus metal kérem szépen! Ilyen se volt még a listában. Kicsit úgy érzem, hogy a külföldi hasonszőrű bandák sikereit igyekeztek meglovagolni. De ügyesen teszik a dolgukat. A lány éteri hangja szépen illeszkedik a neoklasszik heavy metallal - egyetlen hiányérzetem van, hiányzik a flow, a húzás a dalokból, és így csak úgy csordogál a játékidő. Néha valami férfiember is mormog vokál gyanánt, az nagyon nem kéne…sajnos egy lemez után szét is mentek
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## حرب أكبر - Qassam (2013.10.31)  [QASSAM - Shyathan Akhbar! [Full Album]](https://www.youtube.com/watch?v=XWxKW4rcgUw) Zavarban vagyok. Youtube-ról sikerült ez az albumot kivakarni. Hogy megérte-e, abban nem vagyok biztos. A banda neve valami egyszerű terrorista rakétacucc után kaphatta a nevét, az albumcímmel szerintem a Google Fordító se jól birkózott meg… Biztos, hogy kuriózum erre az arab mondakörre fekete metalt írni - azt nem sikerült felfejteni, hogy mellette vagy ellene károg-e (a kommentek alapján mellette bazmeg), de leginkább zavarbaejtő az egész. A minőség persze a szokásos kásás koszos blekk izé, kissé közelebb húzva a punk gyökereket. Inkább féltem tőle, mint szerettem - bár lehet ez volt a cél… 😯
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Smotherchaos - Internal Aeon (2013.11.03) [Smotherchaos | Internal Aeon](https://internalaeon.bandcamp.com/album/smotherchaos)  A borító láttán heveny izgalomba jöttem, hogy ez most valami olyan lesz, amit kajálok. Combichrist/Kovenant ízű ipari halál metal pincemély hörgéssel. A karcagi duó előtt le a kalappal amúgy, mert a production iszonyat állat lett! A sampler részek, a kiállások a szintifutamok minden szépen a helyére kerültek. Itt-ott lehetne kevesebb az elszállós részekből és mehetne több dara, de az egyik legjobb felfedezés eddig az MMA-ban.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Pokolból - Action (2013.10.25.) [Pokolból - Album by Action | Spotify](https://open.spotify.com/album/4PeYh3UNsaLZfIwj6aWMlL)  Sex Action után az Action is kijött 2013-ban új lemezzel, teljessé téve a zavart. Bár anno talán ez átláthatóbb volt a rajongó számára, most így 10 évvel később azért kellett pár perc, mire helyére kerültek a dolgok. Na, de a lényeg, hogy Szaszáék nem tették meg a károgóknak azt a szívességet, hogy izzadságszagú copypaste cuccot tesznek le az asztalra. Ezek a dalok akkor és most is releváns nóták, erejükből sem sokat veszítettek. A stíl természetesen már a 90-es évek közepén kész volt, amikor a HC és ganxta rap-et összehozták a magyar nyelvre. Ezen a sínen halad tovább az Action és az eredmény is több, mint meggyőző. Jó volt újrahallgatni ezt a lemezt.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:

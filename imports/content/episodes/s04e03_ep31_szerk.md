@@ -1,0 +1,167 @@
+---
+title: "2016/3"
+season: 4
+episode: 3
+date: ""
+youtube: "https://youtu.be/"
+tags: ["hungarian metal", "archívum"]
+---
+
+## Heroic - Barbár - 2016.08.01 Bandcamp  Hát újra meg kellett hallgatnom az előző 2014-es lemezüket, mert én nem erre emlékeztem. Harcos északi viking metal élt a fejemben gazdag Amon Amarth vonásokkal. Ami az alapokat tekintve természetesen itt is él tovább, de a Barbár lemez sokkal agresszívabb és durvább lett. Többet tekintenek a pogány black felé és úgy összességében sokkal gonoszabb metalt hoznak. A két magyar szövegű dal extra réteget hoz, még könnyebb belemerülni ebbe a vérgőzös halál metalba. Ja és a legfontosabb végére: én ezt a lemezt sokkal jobban szerettem, mint az előzőt. Jól szól, egyben van az egész, masszív vadulás és vágtatás az egész. Fasza munka lett.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Dying Minds - Dying Minds - 2016.08.09 Soundcloud Instrumentális trió, a feledés homályának szélén létezve és az egyetlen kiadványukat a Soundcloud-on parkoltatva (2025 helóóó), de ott matatva azt láttam, hogy követi őt az ausztrál Plini, aki nekem is nagy kedvencem, szóval kissé elkezdett folyni a nyálam, mint Pavlov kutyájának, hogy ugye ez most jó jel… Igazi zenész kockáknak tűnnek, akiknek a zenei határok felfedezése sokkal többet ér kb. bármi másnál (beleértve a nagy közönséget is). Ám nem a nyelvem köszörülni jöttem rajtuk, hanem dicsérni, mert ezt az agyaskodást kurvakönnyű szeretni, belemerülni és újra(meg újra) előszedni - meghallgatni. Gyönyörű szép melódiák, progos riffelgetések, az átlag számára értelmezhetetlen ritmusképletek a doboknál  Nyolc dal, egy lemez, nem tudom, hogy van-e más cuccuk - de látszólag aktívak és zenélnek szívesen kis társaság előtt is…le a kalappal előttetek srácok!
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Kárpátia - Territórium - 2016.08.12 Spotify Rohadt nagy szerencséje Petrás Jánosnak, meg úgy általában, hogy ebben az időszakban nem létezett még ChatGPT, meg SunoAI, így nem lehet ráfogni erre, hogy az mesterséges intelligencia műve ez. Viszont a másik oldalról legalább lenne erre mentség. Annyi bárgyú az egész…annyira bántóan egyszerű minden sora. Szinte minden rím előre kitalálható. Mind írtunk ilyeneket általános iskolában, de nem gondoltuk komolyan, pláne nem hajlítottunk rá valamiféle szögegyszerű 2-4-et.  Fél óra izzadságszag - jaj de kényelmetlen
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Astru - De vive voix - 2016.08.18 Bandcamp Van úgy hogy nem igazán számítasz rá, de egyszer csak egy lemez minden várakozásod ellenére megtalálja az utat és helyét. Így jártam Astu ezzel a lemezével. A 9 római számmal ellátott tétel újabb remek példája a nyomasztáskultúrának, amit emberünk terjeszt évek óta a munkásságával, de volt az az idegállapot, amikor Astru kellett - nem hittem, hogy ilyeneket fogok mondani a számmal valaha, de most pont odaszúrt, ahova kellett.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Lies of the Machine - Freakshow - 2016.08.20 Bandcamp Steampunk metal Fogalmam sincs, hogy mit hallok itt...metalba oltott cirkusz, bicikliző medvékkel, pirosorrú bohócokkal és fogatlan oroszlánokkal. Ebbe kevernek népzenei elemekkel (pl. balalajka) átszőtt színházi kabaréelőadást. Meghoztam a kedvedet? Nem? Nem csodálom. Mintha egyszerre lenne a Cradle of Filth és Therion paródiája is. Simán lehet, hogy én vagyok ehhez túl szűklátókörű, de engem idegesített ez a világi katyvasz.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Dungaree - Bipolar World - 2016.08.23 Bandcamp Halovány emlék dereng mélysötét elmém mélyén, amikor látom leírva a banda nevét. Hogy ez a Rockstation hasábjain szambázás miatt van-e, vagy tényleg hallgattam-e, már nem tudom. Viszont újrafedezni és minden egyes riffre, szólóra rácsodálkozni, az nagy öröm volt. Blues, grunge, stoner és ezek tetszőleges arányban kevert egyvelege dörren meg a lemezen. Ahogy a Savage gitárszólója után a Woods lelassul és lefelezi az addig döngetést, annyira baszottul jó! Vagány és tökös muzsika, patika ez a lemez és anno 2016-ban azzal a Red Swamp-pel nyomtak közös turnét, aki ebben az epizódban néhány lemezzel később hallható lesz.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Enigmatic Infinity - Sentenced to Solitude - 2016.08.24 Bandcamp Tombor Nándor egyszemélyes progmetal projektje ez az album. Habár nem instrumentális lemezről van szó, számomra sokkal inkább zeneileg értelmezhető a kiadvány. Van vokálsáv és nem is szól rosszul - bár számomra kissé leesik a lemezről, de ettől függetlenül azt gondolom, ha nem lenne ének az albumon, akkor sem sokat vesztene az értékéből. Agyas proggerkedés, virtuóz gitárszólókkal és tök jó hangulattal. Természetesen magamutogató album, mint minden ilyen gitárcentrikus motyó, de nagyon tudtam élni. Hosszú és kimunkált dalok, amiket szépen megszerkesztettek: a billentyűs futamok kimondottan finomak és dobok is rendben vannak, de talán az a része van leginkább magára hagyva. Itt-ott kimondottan erős a Dream Theater lenyomata az albumon, de annyi baj legyen. Szűk rétegnek szánt mestermunka ez, de pont erre való ez a sorozat, hogy az ilyen kincseket felhozzuk. Emberünkkel még legalább két alkalommal fogunk találkozni.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Uzipov - Szennyes - 2016.08.31 Spotify Az előző lemez a Bazaltkockák nekem alapvetően tetszett, habár ez a noise rock zsáner nem az én világom. De nekem valahogy az előző lemezük könnyebben befogadható volt. Dühös volt és szigorú, de sok agyalgatnivalót nem adott, működött. Ez sokkal sötétebb és cipőorrnézegetős anyag lett. Nyakig tele szimbolizmussal és mögöttes tartalommal, egészen odafigyelős szövegek lettek felvarrva erre a lemezre. És ezzel tényleg semmi gond, többször neki kell futni, mire a rétegeket fel lehet fejteni, de ehhez több idő és türelem kell, mint az előző albumhoz.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## AWS - Kint a vízből - 2016.09.05 Spotify Mondok egy ilyet: a Örs korszak legjobb AWS lemeze. Ez az én véleményem, ide lőjetek, Kurvajó lemez, minden dal zseniális és talán nem túlzás azt mondani, hogy egy generáció lenyomata is egyben ez az album. A késői millennial fiatalok lázadása, szorongásai, félelmei rajzolódnak ki ezen a lemezen. Egészen plasztikus képekkel festi le a hajnali főváros lüktetését, vagy éppen a megfelelési kényszer, vagy elveszettség érzése okozta stresszt, frusztrációt. Művészi versek ezek. Csillagos ötös ez a lemez.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Hollywood Rose - Szétfeszít az élet - 2016.09.05 Megnyitnék egy vitát, beszéljünk egy kicsit tribute bandákról. Nekem nincs túl jó véleményem a tribute bandákról, nem annyira látom a létjogosultságát, főleg akkor, ha anyabanda még létezik és működik. Nem létező alakulatok emlékzenekarai talán kicsit érthetőbb - de ott is felmerül, hogy miért? Miért nem saját dalokat írtok?? És a legtöbb zenekar feldolgozás dalokkal indítja a karrierjét, aztán azok szépen kiszorulnak a saját dalok miatt. Ha ez nincs, akkor marad a tribute, ami a legtöbbször nekem kissé kínos, mert nehéz legyőznöm azt a kognitív disszonanciát, hogy nem azt hallom/látom, amit hallani szeretnék…És akkor nézzük meg a Hollywood Rose-t, akik anno ugyan GnR feldolgozás cuccokkal rúgták be a motort, de szintet léptek és 2008 óta saját dolgaikkal nyomulnak. Szögegyszerű rákenrollt nyomnak, jórészt feelgood nóták ezek, amik természetesen a 90-es évek elejének glam rock zenék fordulataival dolgoznak, de úgy tűnik, hogy ez az ő világuk, ebben érzik magukat otthonosan és konfortosan és emiatt egészen hiteles muzsikálást hoznak az urak nagyjából fél órában. De sajnos úgy tűnik, ez az utolsó lemezük, talán azért, mert inkább a nosztalgia vonatozást válaszották és újra GnR feldolgozásokkal koncerteznek sokat és sokfelé - hát úgy tűnik ez jobban fizet, de hát mint tudjuk minden pénzbe kerül.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Cool Head Klan - Benzin és vér - 2016.09.06 A legendás énekes, Molics Zsolt bandája ez a zenekar, amit 98-ban alapított és 2021-es haláláig vezetett is. Ennek megfelelően a Benzin és vér c. album egy nem túl bonyolult heavy metal, aminek fókuszában a vokál és szövegek állnak. Hangulatos és kényelmes metal trappolás fasza szövegekkel és természetesen Molics változatos ének témáival. Belépőszintű metal, könnyed muzsika és a keményebb zenébe bevonódásra tökéletes. Wiki szerint nemzeti rock is felfedezhető, vagy volt a zenéjükben, én ezen az albumon ennek annyira nem érzem a nyomát, egy nóta van a  Mostanában minden este c. dal, ami ilyesmi témát jár körül, de szerintem ez is tök élhető és ízléses szám.  (fun fact: Petrás János 2003-ig a banda tagja volt -> Kárpátia)  A sorozatban sajnos már csak egyszer lesznek majd vendégek, majd a 2019-es évadban.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Winterheart - Nothingness - 2016.09.16 Bandcamp A 2014-es lemezüktől annyira nem voltam hanyattesve, de tetszett dallamosabb fekete fém hozzáállásuk. Az alapok változatlanok, ahol a véleményem is, de az intro szövegénél megálltam egy pillanatra és elmerengtem a fiatalok vajh milyen traumák árnyékából táplálkoznak - és jah, nagyjából körbe is rajzolták, hogy miről is lesz szó a következő 40 percben. Mélységes öngyűlölet, mizantrópia és a kiút keresése ebből a gyötrelmes világból. Nagyon szomorú album ez, gyötrő kifejezésmódja mindannak, amit leginkább egy szakembernek kellene hallania…
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Thy Catafalque - Meta - 2016.09.16 Egy évvel a Sgúrr után be is pottyant a következő Thy Catafalque lemez, a Meta, ami sokkal inkább vitte tovább a Rengeteg hangulatát és világát, mint a Sgúrr. Ezen a csatornán elmondtam már párszor, hogy a TC életmű két csúcspontja számomra a Rengeteg és Gyönyörű Álmok és amúgy is nagy tisztelője vagyok Kátai Tamás munkájának, szóval egyszerűen nem tudom máshogy hallgatni ezt az albumot sem, csak csodálattal vegyes áhítattal. Mestermunka ez is.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Akela - Farkas mesék - 2016.09.21 Spotify Nagyon kevés értelmét látom ennek az albumnak. Az sem segít rajta, hogy majd’ 70 perc, de a szövegek az igazán súlyosak. Ahhoz képest főleg, ami az Akela első korszakát jellemzi. A Fenevad megjelenése idején kb 10 éves voltam (+-pár éves), de nagyon is emlékszem az élményre, hogy mennyire sokkolt, hogy ilyen témákról is lehet metal dalokat írni és mennyire könnyen az ember bőre alá mentek ezek a kurvajó és azóta kultikussá vált szövegek.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+És bár egy interjúban elmondták anno, hogy ez a mese koncepció Főnök rég dédelgetett álma volt, nekem ez úgy tűnik, mint egy pótcselekvés, amikor minden más ötlet elfogyott és már mindent kiírtak magukból. Ez a lemez 9 hosszú évvel követi a Fattyúdal albumot, de nem hiszem, hogy mindenképp ezt a szájízt akarták volna hagyni a rajongóknak a következő 9-10 évre, mert azóta nincs új lemez.   
+Zeneileg vannak ezen a lemezen fasza dallamok és hangulatok, de a témák/szövegek igencsak bugyutára sikerültek néhány dal kivételével. Amikor “csak” parafrazeál mesékből Főnök, az is fura és ferde szemmel néz az ember, de amikor szó szerint emelnek be részeket mondókákból, vagy mesékből (Kutyavér), az ott igazán bárgyú részei az albumnak.   
+Az album végén a Dózsa dal, vagy a Nagy az Isten állatkertje messze kilóg felfelé az album többi dalból, de nem tudja felhúzni a lemezt, mert a többi nagyon mélyen van.   
+Igyekeztem utánaolvasni, hogy más oldalak lapok, anno mit írtak erről a lemezről \- hátha csak nálam nem emel valami \-, nem annyira találtam érdemi kritikát. Régi jó ismerősként köszöntöttem a bandát és albumot, de óriási csalódás volt hallani ezt a lemezt. Nem is tudtam rávenni magam, hogy visszamenőleg feldolgozzam a diszkográfia kimaradt lemezeit, inkább benyomtam a Fenevadat, mert \[csak a rock segíthet\]
+
+## Red Swamp - Tiszassippi - 2016.09.21 Spotify Mocsárban szügyig tapicskolás és combvastagságú riffekkel bombáz a Red Swamp. Inspirációként olyan nagyságokat jelöltek meg az urak, mint Black Sabbath, Down, Clutch, Crowbar, Pantera, Lamb of God. És hát a srácok a tanulási fázist nem spórolták meg, érezni is szépen a fenti hatásokat. Kurvajó középtempós cammogás, mélyre hangolt és szépen kitartott hosszú riffekkel. Ösztönös és nagyon hiteles sludge/doom album, kurvajó hangulattal.   Az egyik legnagyobb meglepetés a mostani merítésben. Nagyon bírtam ezt a lemezt.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Aornos - Mors Sola - 2016.01.01 Bandcamp Ez az alakulat is volt már vendég nálunk és a recept nem igazán változott sokat. A black metal második hullámán lovagló, 90-es évek norvég black hangulatvilágát  bőven idéző fekete fém témákat hoznak, de azt egészen hitelesen és profin. A nagyon egységsugarú blacker cuccok tömkelegéből azzal emelkedik ki ez a lemez is (ahogy a 2014-es Orion is), hogy bátran nyúlnak teátrálisabb, operai elemekhez és persze az ilyenkor meginduló gitártémák is más stílusokban ismerősek jobban, de így több rétege lett az albumnak. Több irányból lehet közelíteni az album felé és sokkal több a kapaszkodó is, könnyebb ráhangolódni a lemezre. Minőségi black metal kiadvány - talán egy picit lehetett volna tisztábbra keverni a végeredményt, mintha az előző lemez ezen a téren jobb lenne.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Gyötrelem - Kárhozat - 2016.09.22 Youtube Akurvaéletbe. Volt már emberünk itt vendég a sorozatban, az sem volt egy vidám lemez, de a kásás hangzás elfedett pár részletet. Például a szöveget. Itt egyrészt a hangzás tisztább, másrész az enciklopédiában ott vannak a szövegek is és hát 10-ből 9 pszichiáter ezt nem ajánlja olvasgatásra. Súlyos és pusztító depresszív black metal és ember legyen a talpán, aki ezt végighallgatja. De mi a bánat lehet emberünk lelkében - abba belegondolni is félelmetes. Baszottul lehozott az életről ez a lemez. Nagyon örülök, hogy az ilyen lemezekkel nem tizenéves koromban találkoztam először…
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Niedergang - Átszellemülés - 2016.09.22 Bandcamp Van némi zavar az erőben, hogy ez a lemez 2015-ös, vagy 16-os, mindegy itt tárgyaljuk. Természetesen ez is one-man-show és az előző Gyötrelem lemezhez hasonlóan a szövegeket megtalálod az enciklopédián, ami sokat segít elmerülni a részletekben. Sokkal tisztábbra polírozott hangzása van, mint az átlag trve black albumoknak. Erre szükség is van, mert extra vonós hangszereket vélek a háttérben felfedezni, további rétegeket pakolva a lemezre. Nem annyira pusztító, mint az előző lemez, de az társadalomtól/embertől való elidegenedés mint egy gerincoszlop, úgy vezet végig az albumon és az egyes dalok erre kapaszkodnak fel ilyen-olyan formában.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Sin of God - Aenigmata - 2016.09.23 Bandcamp Addig-addig szedtem ki az albumokat a listámból, hogy ne black metallal kelljen befejezni az epizódot, hogy egy oldszkúl death albummal zárom az epizódot…De oda se neki, az ilyet is szeretjük, főleg, hogy olyan ellentmondást nem tűrő elhivatottsággal baszatják az urak a halál metalt, mint a Sin of God.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+A zsáner kötelező elemeit stabilan és tökéletes hangzással szállítják. Ezt a brutális darabolást a kurvajó és szélvész gitárszólók hivatottak csillapítani, de igazából csak a feszültséget fokozzák. Egészen elképesztő kényelmetlen tenyérizzadós hangulatot áraszt a lemezt. Nem tudom, hogy csinálják, de kurvajó, hogy ennyire meg tudja zavarni az ember agyát ez a zene. Nem mellesleg iszonyat pontos és technikás az egész cucc, mintha millisecundumra lenne minden kiszámolva. Idén jelent meg új lemezük, talán még találkozunk velük a sorozatban.

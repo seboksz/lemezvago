@@ -1,0 +1,14 @@
+2) Hogyan futtasd?
+2A) Először dry-run (csak kilistázza, mit csinálna)
+node scripts/prepare-for-astro.mjs imports/normalized src/content/episodes --dry-run
+
+2B) Éles futtatás (fájlokat ír)
+
+Link-kinyerés nélkül (csak meta helyek beszúrása):
+
+node scripts/prepare-for-astro.mjs imports/normalized src/content/episodes
+
+
+Link-kinyeréssel (ha a Docs exportban a szekció elején ott a [...](url)):
+
+node scripts/prepare-for-astro.mjs imports/normalized src/content/episodes --extract-links

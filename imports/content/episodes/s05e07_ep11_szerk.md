@@ -1,0 +1,232 @@
+---
+title: "2017/7"
+season: null
+episode: 7
+date: ""
+youtube: "https://youtu.be/"
+tags: ["hungarian metal", "archívum"]
+---
+
+## MoonRiver - A kígyó szíve - 2017.02.13 Hoppá, a 2015-ös lemezük kapcsán azt mondtam, hogy nincs több cuccuk, de van ám. Csak picit máshogy írják/írták a nevüket, szóval ez egy másik kiadványuk, ami talán még faszább lett, mint az előző. A témák már nem csak a csajozás körül forognak, de az univerzálisabb szövegek nem mindig működnek jól. Zeneileg viszont tök jó, laza rockolással lepik meg hallgató fülét - igazi 80-as évek feeling
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## ELEFÁNT - Minden - 2017.03.17 Valahol a rock és az elektronikus zene határán egyensúlyozó banda lemezén agyalgattam, hogy idetegyem-e, mert szerintem csak érintőlegesen való az MMA-ba, de az Elefánt mégis csak szerves és meghatározó része a magyar alter zenei színtérnek. Fura hangulat, elvont szövegek, de azért lehet hozzájuk kapcsolódni.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Silent Island - Fall of Oceans - 2017.03.27 A győri Csarnogurszky István munkásságáról már volt szó, többször is, de minden alkalommal rá kell csodálkoznom erre a varázslatos atmoszférára, amit a lemezeivel teremt. Ambient elszállós lágy rockzene, de a flow a lényeg, csak az számít. Zseni az ember.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## The Qbs - Lenyomatok - 2017.03.28 Ügyes funky-ba hajló laza gitárzene, lágy rockolgatás. Nekem ez nagyon liftzene-gyanús, de talán valakit megfog.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Hard-Ox - A Vak Remény - 2017.05.06 Kissé nyomorult hangzással és szerény hangszeres múlttal dolgozó kiskunmajsai fiatalok punk-rock lemeze a Johnny a mocsokban babérjaira törnek, de nagyon messze voltak tőle. Két dalig bírtam.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Turn Signals - Duck And Cover - 2017.05.10 Jó hangulatú, kényelmesre kevert indie pop rock muzsika. Ha lenne még zenei tévézés/rádiózás, akkor kb lehetne mondani, hogy rádióbarát pop. Jól fogott, de közel sem kemény riffekkel enyhén pszichedelikus zenét csiholnak - egész fasza kis motyó. Fb szerint aktívak és idén nyáron kislemezt is villantottak.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## The Poster Boy - On the Count of Three - 2017.05.23 Lebegős laza gitárzene, remek hangulattal és patika hangzással, itt-ott kicsit grunge-os felhangokkal, leginkább utazós muzsikának mondanám. Nagyokat nem ígér, nem vállalja túl magát -  limonádé filmek kitűnő aláfestő zenéje.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Lemurian Folk Songs - Maro - 2017.06.14 Ugye, hogy igazam van! Az előző Lemurian album egy stoner instru cucc lett, unalmas is lett, vagy inkább semmilyen. Aztán erre a lemezre leigazoltak egy énekes csajszit, aki tudott erre a muzsikára jól énekelni és nyitott egy új dimenziót maguknak. Pszichedelikus sivatagi révedés az országút végtelenjébe és az ördögszekerek random suhanásába. Gitártémákat is felturbózták
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Alone in the Moon - Glamour Grunge - 2017.06.26 Az előző lemezük orrba-szájba dicsértem, nem véletlenül, az a korong kb világszint volt, stoner-grunge vonalon billegő, ezer stílusban cikázó témákkal. Ez az album talán nem annyira csapongó, inkább van egy ilyen Soundgarden-AliceInChains hangulata. És szó nincs arról, hogy ez a lemez ne lenne rohadt jó, mert valóban az, de 2015-ös lemez szintjét azért nem üti meg.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Jackie's gun - Cell - 2017.07.14 Egészen jó hangulatú, remek vokáltémákkal megtámasztott alter rock lemez - de ha egy hozzáértő hangmérnök kezébe adták volna a felvétel és a korongra írás közötti munkafolyamatokat, akkor az eredmény szebb lett volna. Ingadozó minőségű felvétel: többször tompa, kásás és koszos, a dob a picsában hátul csörömpöl, a basszus csak úgy hupog. Pedig tényleg jó. Ihletés a SOAD-tól itt, pici nyúlás a Pink Floyd-tól ott, de tény, hogy a kémia baszottul működött kb egy album erejéig.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Indeed - Sinecure - 2017.09.10 Számomra tök átlagos indie garázsrock muzsika, ami egyáltalán nem tudott felizgatni. Van némi Monster Magnet túlimádat itt-ott a riffek környékén, de ennél többre nem lettem figyelmes az album hallgatása közben.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Autopilot - Half the Pressure, Twice the Speed - 2017.09.17 A fiúk az első dalban akkorát nyúlnak a Pink Floyd 87-es lemezének utolsó dalából (Sorrow), hogy az valami pofátlan, emiatt muszáj volt lecsekkolni, hogy mi van ezután. És egy kis laza progrockerkedés van, kicsi stoner, kicsi pszichedelia, de nagyon okos, hangulatos, elszállós zene.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## 4-FOK Band - Fekete fák (Black trees) - 2017.09.17 Nagyon lelkes hatvani urak nagyon egyszerű rockzenélése átlagos témákról és szigorúan bonyolításmentes 2-4-ekben gondolkodva. Semmi gond sincs ezzel, csak kissé sablonos. Ettől még valakinek jó lehet.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## ARONS Land Cargo Co. - Cracks and Scratches - 2017.09.21 Az előző évad végén is segített már egyszer Hajba Áron lesimítani az évadot, és most is itt van, hogy kényelmes rockzenével tudjunk átjutni 2018-ba. Az előző lemez jobban támaszkodott az erősítő adta lehetőségekre, ez inkább akusztikusabb, itt-ott kifejezetten country-ba hajló zenélgetés.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Kösz Vitya! - Kösz Vitya - 2017.09.30
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Dánó - Budapest romjai - 2017.10.05 Kellően gondtalan és beleszarós garázs punk, remek hangulattal és könnyed etüdökkel. Semmi komolykodás, nem is akarnak világot megváltani, de pont emiatt működik ennyire jó - plusz kurvára önazonosnak is tűnik.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Hoodoo Offenders - Sweet Revenge For Weak Days - 2017.10.06 Könnyed, de feszes gitártémákkal megalapozott alternatív rock. Kicsit talán lehet “tolakodóbb”, mármint az első hallgatásra csak úgy átfolyt rajtam, nehezebben ragadta meg a figyelmemet. De nagyon ügyes faszik nyomnak nagyon kényelmes rockmuzsikát.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## The Keeymen - The Keeymen - 2017.10.20 Instrumentális laza surf-rock és az egészen tuti, hogy idehaza ezzel a kombóval olyan sokan nem próbálkoznak. Van egy ilyen Ponyvaregény filmzene vibe-ja, de ahogy úsztam bele a zenéjükbe, egyre inkább ilyen The Shadows élményem volt. De amúgy meg elég pengén nyomják.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Reborn - 2017 - 2017.10.20 Őszinte, nyers és néha bizony kissé prosztó dirty rock Tiszaújvárosból. Viszonylag egyszerű döngölés, ami a lemezről leesik, de valamiért tökre élvezhető volt ez a, mai szemmel egyáltalán nem PC szövegekkel átitatott veretés.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Ephilexia - Ones We Loved - 2017.11.10 Egyszemélyes projekt és emberünk a Silent Island basszerosa, ha ez nem annyira mond sokat, akkor máshogy mondom: az itt már sokat emlegetett Csarnogurszky István zenei társa. Itt is nagyjából az az instrumentális ambient prog-rock hangulatzene megy, billentyűs és húros hangszerekkel teremti meg emberünk ezt lebegős atmoszférát - leginkább filmzene jellegű zenei utazás.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Dope Calypso - Chaka Chaka - 2017.11.17 Tök jó látni, hogy a szemem láttára fejlődik egy zenekar. 2015-17 között 3 lemezük jelent meg, évente egy - és egyre konzisztensebb lett minden albumuk. Ez talán lassabb és kevésbé hektikus mint a korábbiak, de mégis élvezhető ez a tempós feelgood rockolás.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## The Stinky Rodders - Raw & Wild - 2017.11.18 Csajozós rockabilly muzsika Szekszárdról - nomen est omen. Amúgy tök jól szól, tök jól szánt végig, némi változatosság nem ártana. Nekem egy zsáner nem annyira esik kézre, így nem tudtam tiszta szívvel szeretni ezt az albumot.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Voltak - When All Just Were - 2017.11.18 Kétharmadrészben magyar trió könnyed, popban is megmártozó indie rock muzsikája. Kicsit borúsabb, kicsit bánatosabb rockot nyomnak, ezzel speciel nekem könnyebb azonosulni. Emellett a tempót és a flow-t is sikerült jól eltalálni, szóval az átlag indie cuccoknál eggyel faszább eredményt kapunk.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Chinese Rolex - Universal Shockmount - 2017.11.29 Az USA-Budpest tengelyen tevékenykedő urak kissé retro hangulatú rockja, ami vastag Rolling Stones vonásokat hordoz magán. Nincs ezzel gond, van ennek némi reneszánsza idehaza. Aki éli, vigye.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Terraluna - 01 - 11 - 2017.12.01 Itt-ott southern rockba hajlóan igyekeznek a múltba révedni a kismarosi urak - és a 90-es évek grunge fordulatai számon kérni rajtuk nem elegáns, mert ha már retro, akkor kikerülhetetlen az ősök ihletése. Amúgy a lemez második fele
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Ludovika - Zagyva - 2017.12.05 Szépen kimunkált versek, okos megmondások és művészi képek jellemzik a szövegeket, ezek viszik a hátán az albumot. Az zenei alap ezt igyekszik követni. Nem annyira bonyolult alter muzsika, de a gitárhősködések nagyon jól festik a hangulatot, emiatt könnyen másik a bőröd alá..
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## minimál Bogart - Space Goat - 2017.12.06 Az első pár pár még érdekes, de aztán vokál nélkül unalomba fordul ez a pszichedeliával átitatott blues rock. Talán némi stonerkedés is vegyül és valóban feldobja az összképet a szájharmonika - de az egész nem akar sehova se menni - csak csorog és folyik az zene.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Huber Péter és az Infinity - Hagyaték - 2017.12.15 A pécsi zeneszerző, dalszerző egy rövidke 5 dalos lemeze, hogy van-e tőle több lemez, nem tudni, egy-két fellelhető tőle az interneten. Könnyed és kockázatmentes rockzene, ízléses szintiszőnyeggel és okos gitármunkával. Semmi emlékezetes, de jófajta rokkolás.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:

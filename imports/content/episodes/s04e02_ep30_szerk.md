@@ -1,0 +1,180 @@
+---
+title: "2016/2"
+season: 4
+episode: 2
+date: ""
+youtube: "https://youtu.be/"
+tags: ["hungarian metal", "archívum"]
+---
+
+## Nagaarum - D.I.M. - 2016.03.25 Periódusos rendszer ismertetése Nagaarum módra. Emberünk számtalan formációban, stílusban és hangulattal volt vendég a sorozatban, de vadászkutya legyek, ha ezzel albummal nem kedveskedni akart. A sorozat életében ez a legkönnyebben fogyasztható Nagaarum szösszenet. A dalok címei kémiai elemek vegyjelei, melyen lazán kapcsolódnak is a dalok szövegeihez - oktatási célra kiváló album. Természeten a black metal alapokon nyugszik ez is és itt-ott lelketpróbáló részek felsejlenek, de mégis dallamos és könnyen megszerethető kiadvány ez. **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Ossian - Fényárban és félhomályban - 2016.04.04 Mit mondjak? Mi újat mondjak, amit még nem mondtam el? Az idei új dal nyomán elkezdtem tervezgetni egy speciális Lemezvágót, ahol az Ossian lemezeket rangsorolom, egy tier-listet csináltam volna. Azt a projektet félretettem, de ezt a lemezt még meghallgattam abban a session-ben. És ahogy ennek az időszaknak Ossian lemezei, ez sem győzött meg, habár nem ez volt a legmélyebben. A 2011-15 között három lemez még rosszabb.  Szövegileg úgy tűnik már nem lesz jobb (Maximális Rock, bazmeg), de zeneileg szerintem jobb, mint az előző két album. Mennyire beszédes amúgy, hogy az egyetlen instrumentális dal érintett meg leginkább, amihez kb Endrének a legkevesebb köze volt… **S**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Endless River - Sundered Time - 2016.04.11 A győri bandának ez a lemez volt a hattyúdala. Egy korai lemez és egy kislemez után ezt az albumot évek alatt, nyögvenyelősen tudták csak összerakni, mert az élet szétvitte a srácokat. De még mielőtt szögre akasztották a hangszereket, kiadták a banda legjobban összerakott albumát - szóval megérte várni erre. Progresszív death metalban tolják, de olyan hangokat és ízeket hoznak, amivel azért idehaza nem sokan próbálkoztak. Első hallásra egyből az amcsi Cynic ugrott be, főleg a gazdagon bolondra játszott basszusfutamok miatt, de azért hallani itt jazz-es kiállásokat és pincemély hörgést, valamint némi doom-os érzést is. De akárhogyan is igyekszem skatulyázni a lényeg az, hogy kurvajó zene ez, de főleg unikális élmény. Elkeserítően sokszor futok bele ebbe a Magyarország túl kicsi ehhez a zenéhez közhelybe, itt is ez van. Beszarás istennagy muzsika ez! **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Svoid - Storming Voices of Inner Devotion - 2016.04.18 Ahhoz képest, hogy az előző Svoid lemezt hogy’ lehordtam, ezzel a cuccal alaposan feladták a srácok a leckét. Még a legelső epizódban volt szó róluk, de ez a lemezük kanyarban sincs ahhoz. Az egy kutyaközönséges A4-es black metal album volt, ez meg egy rohadtul másvilág. Blackből levezethető ez is, de inkább egy black-and-roll, néha inkább dark rock album. Szépen lerúgták magukról az előző album kliséit és sokkal inkább testhezállóbb és organikusabb album lett ez, amiről messziről üvölt a zenei hitelesség. **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Age of Agony - For the Forgotten - 2016.04.30 Régisulis death metal, és az urak leginkább háború és halál témakörben fejtik ki székfoglalójukat a műfaji keretek adta lehetőségek között. Nem túlságosan bonyolult halálmetalt játszanak és a dolgaik is javasrészt ismerősnek tűnnek, de valamiért mégsem kívánkozott kifelé a lejátszóból. És nem csak úgy végigment rajtam, tényleg jó volt hallgatni ezt a lemezt. Kis megjegyzés a Csillagok, csillagokra. **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Vendetta Inc. - Blight - 2016.05.02 Lassú és kimért groove metal, amin nagyon érződik, hogy a Pantera egészen meghatározó élményként hatott a srácokra. Mélybe hangolt, súlyos riffekkel dolgoznak, a vokál meg néhol a death metal-ig is elmerészkedve acsarkodik. A hangzás nagyjából rendben van, de csak rendben van. Semmi extra, semmi plusz. Nekem kissé egyhangú volt a lemez, annak ellenére, hogy a helyét megtalálva egészen fasza kis aláfestő muzsika lehet ez. **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Ángyán Tamás - Duality - 2016.05.02 Diplomás hegedűművész, számos legendás magyar banda gitárosa, mint Sámán, Mamut, Carpatian Project, de számtalan más művésszel játszott már együtt, Deák Bill Gyulával. Szóval emberünk nem ma kezdte a muzsikálást és ennek megfelelően ez a szólólemeze is kimért és klasszikus rock/metal album. Igazából egy koprodukció, ahol mint gitáros-zeneszerző-szövegíró szerepben fogja össze ezt a 15 dalt. A dobok és a mikrofon mögött viszont dalról dalra más ugrik be. Kissé öncélú, kissé magamutogató szólóalbum ez, de élvezetes és minőségi kiadvány ez. Pöppet öreguras és lassú, de azért sokan vagytok, akiknek ez be fog jönni. **S**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Pit Of Saron - The Emptiness, the Rage and Me - 2016.05.08 A debreceni metalcore alakulat már szerepelt a sorozatban, itt vokálozik a yt balhéjáról ismert RavenCroaks Bandi. Az előző lemez inkább KSE ízű volt, ez kevésbé, sőt talán egy kicsit lassabb és érzelmesebb is, talán ez lenne az igazi hangjuk? Nem tudom, de jobban is tetszik. A kollaborációk is jól működtek. A csordakiabálós cuccok ízlés kérdése, de talán picit sok, de mondom - kevés bajom volt ezzel a lemezzel.  **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## De Facto - Nihil - 2016.05.13 Jesszusúristen! Ez a nevet évek óta nem hallottam, de feltörtek az emlékek, mert az Evangeliom lemezt szarrá-fossá hallgattam, imádtam - én utána jött a nyomor, hogy ennek több, mint 20 éve….akurvaéletbe. Aztán 2007-ben szétmentek 2015-ig, amikor nekiálltak ennek a lemeznek. És baszki ez de kurvajó album lett ez is. Ez úgy mondom, hogy most 40x éves fejjel hallgatom és nem emlékekből dolgozom. Zeneileg és szövegileg is sikerült újra ott felvenni a fonalat, ahogy kb 2007-ben letették. Érett és nagyon jól működő gótikus rock/metal album és őszintén féltem, hogy az emlékeimet tönkreteszi ez a lemez, de nagyon nem. Újra meg kellett állapítom, hogy nem hiába voltam anno annyira oda a bandáért - és most meghallgatva nagyon erős nosztalgiát és örömöt érzek. Imádtam anno ezt a stílust (ma is persze) és azóta millió más zsánerben is el tudtam mélyülni - de ez valahol mindig a szívem csücske marad. **YT**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Phrenia - Million Miles - 2016.05.15 Magyar srácok, de a déli határ szerb oldalán nyomatnak friss és üde metalcore-t és nem félve az elektronikus cuccok gazdag használatától. Fasza, változatos és lendületes muzsika tetszetős kiállásokkkal és vagány megindulásokkal és fülbemászó dallamokkal. Ez volt a bemutatkozó anyaguk és hát azt kell mondanom, hogy ez elég erősre sikerült. Persze nagyító alatt vizsgálva találnánk ismerős fordulatokat a lemezen, de ennél fontosabb, hogy nem akartam jobban vizsgálni, mert jól működött és jó éreztem magamat közben.  **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Astru - Az egy álmai - 2016.05.23 Ennek az epizódnak a legnehezebb pillanatait megint az Astru-nak sikerült szállítani. Egy merő kínzás és lélekrombolás ez a lemez. Ehhez valami különleges tehetség kell, hogy egy ötperces dallal kb a dupláját vedd el a hallgató életéből. Őrület és nyomasztó pusztítás, vagy egyszerűen erre vezessünk be egy új mértékegységet. Ez 1 Astru. **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Noamuthen - The Beginning - 2016.05.27 Szimfónikus fantasy metal és leginkább Tolkien műveiből inspirálódtak. És az egy dolog, hogy nekem ez a zsáner filmen se, működik és így nem meglepő módon zenében sem, de azért például egy Echonald, vagy egy Elfsong el-el tudta kapni a fonalat, de ez a lemez nekem nagyon messze gurult. Kicsit tompa a hangzás is, holott zeneileg azért jól kigondolt cuccnak tűnik, de az éneksávok nagyon leugrottak a lemezről. A női vokál kissé erőtlen, a férfi vokált is kicsit hátrakeverték, furán kásás az egész, pedig szerintem itt minimum elvárás lenne a kristálytiszta hangzás. Hosszú is, nekem kissé kényelmetlen is.  **S**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## The Beast Within - Temperance - 2016.05.29 Szegedi technikás deathcore-ban nyomulnak a fiatalok és ugyan külföldi hasonszőrű zenekarok hatásait könnyedén azonosítani lehet a zenkéjükben, mint pl. Lorna Shore, vagy a Whitechapel, egészen változatosra sikerült ez hentelés. Rommá bonyolított dallamvezetés, de ennek ellenére mégsem borult fel a lemez az öncélú hangszerhősködés irányába. Tetszett a vadulás, tetszett az egész.  **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Shapat Terror - Újratervezés - 2016.06.06 Az egri bagázs zenélni szeret és nem albumokat kiadni. Több mint 20 éve a pályán és két lemez, demo meg EP. Ennyit tudnak felmutatni, de amikor az Újratervezést elkezdtem hallgatni, első hangok után tudtam, hogy ilyen itt még nem volt. Grunge post-punk stoner egyveleg olyan elszállós hangulattal és elvont dumákkal, hogy beszarás. Muszáj volt rögtön háromszor egymás után kipörgetni. Nem ismertem a zenéjüket, csak a nevük rémlett bazirégről. Nem hosszú album: 8 dal picit több, mint fél óra, de ez lebegés, amit nyomnak, az parádé. Kicsit hangulatzene, nem minden pillanatban működik, de amikor igen, akkor viszont nagyon. Szuper muzsika ez is. **S**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Leecher - Sightless - 2016.06.10 Csellós szimfónikus metal és egészen biztos, hogy magasan képzett zenészekről van szó, mert valami elképesztően tudatossággal megszerkesztett muzsika ez, nagyzenekari megoldásokkal. Nyertek ők mindenféle tehetségkutatót, ami nem is csoda, mert varázslatos atmoszférát tudnak teremteni. Állítólag gitárt nem is használnak a projektben, csak csellókkal oldanak meg mindent. Ha ez valóban így van, akkor extra pacsi nekik, mert én komolyan nem hittem el, hogy a riffeket nem gitáron játsszák. Hát ilyen se volt még itt - különleges zenekar, köszi, hogy ezzel is meg tudtam ismerkedni. **S**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Solidity - An Abnormal Collection - 2016.06.10 Nagyon jó összerakott progresszív elemekkel gazdagon megszórt melodeath cucc, ami kisebb-nagyobb átfedésekkel a thrash és tech-death felé is csúszkál. Az én kedvencem az albumon a kicsit lágyabb Insomnia, de a többi, sokkal agresszív dal is iszonyat erős és penge. Hypocrisy, Scar Symmetry zenekarokat lehet ismerős hatásként idecitálni. Agyas rombolás szerethető kiállásokkal és kütyüzésekkel. Alapvetően nekem bejött. **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Harag - Sújtólég - 2016.06.16 Heavy metal és thrash határán egyensúlyozó vecsési alakulat, a megalakulásukat 1989-re teszik, de egy 15 éves kihagyás után álltak össze újra, hogy kiírják magukból a mondanivalót. Ez az új éra második lemeze. Szólhatta szebben, mert kissé kásás, de alapvetően ez egy kutyaközönséges metal lemez, szokásosnak mondható riffekkel, szólókkal és társadalomkritikusnak szánt szöveggel. Szerintem semmi extra, ilyen volt már itt egy csomó. Arra viszont kíváncsi lennék, hogy a van-e itt szemtanú a banda első korszakából, amikor 91-94 között Vecsés környékén zúztak? **SC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Inhalator - Álmok temetője - 2016.07.02 Nem ismertem őket, egy hangot sem hallottam belőlük, de pontosan tudtam, hogy milyen zenét fogok kapni. Még akkor is, ha az intronak szánt pár másodperc nem is ezt mutatta - mert ugye az intro-nak nem hiszünk. Szóval a győri fiatalok a vegytiszta thrash-sel nyitják a lemezt és úgy tűnik, hogy a Sopron-Győr távolság nem olyan nagy, hogy a srácok ki tudjanak keveredni a Moby Dick gravitációs teréből. Már az első dalban elsütik az összes thrash klisét és őszintén nem is vártam, hogy a hátralévő 50 perc végtelen változatossággal fog eltelni. Viszont ezt a klasszik thrash vonalat nagyon is minőségi módon hozzák. Jól szól szól az egész, az egyensúly a hangszerek között szerintem rendben van, a szövegek a műfajnak megfelelően agresszívak és élesek és mellesleg néha egészen agyas kis dumák ezek.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+Javíthatatlanul szarul viszonyulok a thrash színtérhez, szóval kezeljétek ezt a kritikát is így: tényleg nincs gond a lemezzel, de nagyon sokszor hallott panelek vannak a lemezen.  **S**
+
+## KabinLáz - Végül helyreáll - 2016.07.09 Jófajta stoner/grunge muzsika Püspökladányból. Zeneileg a stoner világból többet érzékelek, mélyebbre hangolt gitárokkal és enyhén poros hangzással hozzák a kötelezőt. A bandcamp oldalukon sokat emlegetik a grunge-os vokált, ami azért belemagyarázható, de inkább jófajta hard rocknak mondanám, itt-ott némi sabbathizmussal feltöltve. Viszont a dalszövegek nekem egész jól működtek. Többnyire rendben van a mondanivaló, sőt helyenként nagyon is szép versek. Lesznek ők még nálunk vendégek, de én az első találkozásra adok egy jó nagy pacsit! **S,BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+## Words of Blood - Az én démonaim - 2016.07.13 Kissé tompára kevert thrash lemez és  nem is igazából tudom eldönteni, hogy tetszik-e vagy sem…fura. A 2013-as lemezükkel voltak már itt a sorozatban és ott is felemás érzésem volt és ez kitart a mostani kiadványra is. Mert vannak tényleg fasza dalok a lemezen, mint a címadó dal, vagy az Észrevétlen, vagy a Legyen káosz. Másik oldalon meg ott figyel az albumot nyitó Hatalomvágy, vagy a Hallgass ami a fenti háromhoz képest csak egy szimpla csapkodás. Szóval gondolom én, hogy ezek a dalok más-más hatások, érzelmi benyomások lenyomatai, mégis nagyok a hullámhegyek és -völgyek között a különbségek. Emellett pedig itt vannak azok a balladai belassulások, amik amúgy tök jól működnek, érzelmes és kidolgozott részek, de ennek sem találom a helyét az összképben.
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
+
+Plusz sokkal jobban bejön, amikor az énekes csávó a saját énekhangják nyomja, és kissé erőltetett, amikor kicsit Anselmo bácsisra veszi a vokált. Szóval tökre ambivalens egy lemez ez, mert amikor már úgy szeretném szidni, akkor megint jön egy dal, amire azt tudom mondani, hogy baszki, ez megint totál rendben van, mint például az albumot záró Meddig c. nóta….mehhh **S**
+
+## Angerseed - The Proclamation - 2016.01.24 Oldszkúl halál metal Debrecenből. Dögszag és szélvész tempójú gitárszólók jellemzik a lemezt és persze a 90-es évek floridai death metaljának mély tisztelete. Precíz és pontos zenélést kapunk közel 50 percben és ez a patikamérlegen kimért hangzásvilág itt-ott talán sterilnek tűnik, de ezt ügyesen ellensúlyozza az ösztönös vadulás és kurvajó gitárszólók. Nem tudom, hogy a sorozatban hallottam-e már ennyire komplex és arányosan felépített death metal albumot. Átgondolt és kimunkált lemez ez és külön pacsi a hangzásért. Az utolsó cin is úgy szól, ahogy annak kell, kényelmes egyensúlyban van minden. És bár a műfaj kereteiben maradva ezt a konstans hentesmunkát nem könnyű általában hallgatni, a The Proclamation-nek sikerült megoldani, hogy a végeredmény élvezhető is maradjon. **BC**
+
+- bandcamp:
+- spotify:
+- youtube:
+- at: 00:00
+- style:
