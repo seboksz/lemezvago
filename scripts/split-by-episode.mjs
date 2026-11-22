@@ -7,9 +7,9 @@ const outDir = "imports/episodes";
 const src = fs.readFileSync(input, "utf8");
 const lines = src.split(/\r?\n/);
 
-let currentSeasonTitle = null; // pl. "Első évad (2013)"
-let currentSeasonYear = null;  // pl. 2013
-let currentEpisode = null;     // pl. "2013/1"
+let currentSeasonTitle = null;
+let currentSeasonYear = null;
+let currentEpisode = null;
 let buffer = [];
 
 function slugify(s) {
@@ -22,25 +22,48 @@ function slugify(s) {
     .replace(/^-|-$/g, "");
 }
 
+function cleanHeading(line) {
+  return line
+    .replace(/^#+\s+/, "")
+    .replace(/\\([.!])/g, "$1")
+    .trim();
+}
+
 function extractYearFromSeason(line) {
-  // "# Első évad (2013)"
-  const m = line.match(/\((\d{4})\)/);
-  return m ? Number(m[1]) : null;
+  // Régi forma: "# Első évad (2013)"
+  const match = line.match(/\((\d{4})\)/);
+  return match ? Number(match[1]) : null;
+}
+
+function extractYearFromEpisode(line) {
+  // Új forma: "## S07E01 - 2019/1"
+  const match = line.match(/\b(\d{4})\/\d+\b/);
+  return match ? Number(match[1]) : null;
+}
+
+function yamlString(value) {
+  return JSON.stringify(value ?? "");
 }
 
 function flush() {
-  if (!currentEpisode) return;
+  if (!currentEpisode) {
+    return;
+  }
 
-  const seasonDir = path.join(outDir, String(currentSeasonYear ?? "unknown"));
+  const seasonDir = path.join(
+    outDir,
+    String(currentSeasonYear ?? "unknown")
+  );
+
   fs.mkdirSync(seasonDir, { recursive: true });
 
-  const filename = slugify(currentEpisode) + ".md";
+  const filename = `${slugify(currentEpisode)}.md`;
   const outPath = path.join(seasonDir, filename);
 
   const md = `---
-title: "${currentEpisode}"
+title: ${yamlString(currentEpisode)}
 season: ${currentSeasonYear ?? "null"}
-seasonTitle: "${currentSeasonTitle?.replace(/"/g, '\\"') ?? ""}"
+seasonTitle: ${yamlString(currentSeasonTitle)}
 ---
 
 ${buffer.join("\n").trim()}
@@ -51,23 +74,32 @@ ${buffer.join("\n").trim()}
 }
 
 for (const line of lines) {
-  // H1: évad
+  // H1: "# 7\\. évad"
   if (line.startsWith("# ")) {
     flush();
-    currentSeasonTitle = line.replace(/^#\s+/, "").trim();
+
+    currentSeasonTitle = cleanHeading(line);
+
+    // Így a régi formátum is támogatott marad.
     currentSeasonYear = extractYearFromSeason(line);
+
     currentEpisode = null;
     continue;
   }
 
-  // H2: epizód
+  // H2: "## S07E01 - 2019/1"
   if (line.startsWith("## ")) {
     flush();
-    currentEpisode = line.replace(/^##\s+/, "").trim();
+
+    currentEpisode = cleanHeading(line);
+
+    // Az új szerkezetben innen érkezik az évszám.
+    currentSeasonYear =
+      extractYearFromEpisode(line) ?? currentSeasonYear;
+
     continue;
   }
 
-  // minden más megy az aktuális epizódba
   if (currentEpisode) {
     buffer.push(line);
   }

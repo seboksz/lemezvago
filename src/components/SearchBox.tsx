@@ -271,7 +271,7 @@ export default function SearchBox() {
           width: 100%;
           padding: 12px 14px;
           border-radius: 12px;
-          border: 1px solid rgba(0,0,0,.2);
+          border: 1px solid var(--border-strong);
           font-size: 16px;
         }
 
@@ -280,7 +280,7 @@ export default function SearchBox() {
         .card {
           padding: 14px 16px;
           border-radius: 14px;
-          border: 1px solid rgba(0,0,0,.12);
+          border: 1px solid var(--border);
         }
 
         .title {
@@ -318,12 +318,12 @@ export default function SearchBox() {
           gap: 8px;
           padding: 6px 10px;
           border-radius: 999px;
-          border: 1px solid rgba(0,0,0,.12);
+          border: 1px solid var(--border);
           text-decoration: none;
           font-size: 13px;
         }
 
-        .pill:hover { border-color: rgba(0,0,0,.25); }
+        .pill:hover { border-color: var(--border-strong); }
 
         .filters {
           display: flex;
@@ -344,7 +344,7 @@ export default function SearchBox() {
         select {
           padding: 10px 12px;
           border-radius: 12px;
-          border: 1px solid rgba(0,0,0,.2);
+          border: 1px solid var(--border-strong);
           font-size: 14px;
         }
 
@@ -359,7 +359,7 @@ export default function SearchBox() {
         }
 
         .card:has(.title.active) {
-          outline: 2px solid rgba(0,0,0,.18);
+          outline: 2px solid var(--focus);
           outline-offset: 2px;
         }
       `}</style>

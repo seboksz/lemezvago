@@ -28,17 +28,44 @@ const HU_ORDINAL = new Map([
   ["tizedik", 10],
 ]);
 
+// function extractSeasonNumber(seasonTitle) {
+  // // pl. "Első évad (2013)"
+  // if (!seasonTitle) return null;
+  // const lower = seasonTitle
+    // .toLowerCase()
+    // .normalize("NFKD")
+    // .replace(/[\u0300-\u036f]/g, "");
+  // // "elso evad (2013)" -> "elso"
+  // const m = lower.match(/^([a-z]+)\s+evad\b/);
+  // if (!m) return null;
+  // return HU_ORDINAL.get(m[1]) ?? null;
+// }
+
 function extractSeasonNumber(seasonTitle) {
-  // pl. "Első évad (2013)"
   if (!seasonTitle) return null;
-  const lower = seasonTitle
+
+  const normalized = seasonTitle
     .toLowerCase()
     .normalize("NFKD")
-    .replace(/[\u0300-\u036f]/g, "");
-  // "elso evad (2013)" -> "elso"
-  const m = lower.match(/^([a-z]+)\s+evad\b/);
-  if (!m) return null;
-  return HU_ORDINAL.get(m[1]) ?? null;
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\\\./g, ".")
+    .trim();
+
+  // Új forma: "7. évad"
+  const numericMatch = normalized.match(/^(\d+)\.?\s+evad\b/);
+
+  if (numericMatch) {
+    return Number(numericMatch[1]);
+  }
+
+  // Régi forma: "Első évad (2013)"
+  const ordinalMatch = normalized.match(/^([a-z]+)\s+evad\b/);
+
+  if (ordinalMatch) {
+    return HU_ORDINAL.get(ordinalMatch[1]) ?? null;
+  }
+
+  return null;
 }
 
 function extractEpisodeNumber(episodeId) {

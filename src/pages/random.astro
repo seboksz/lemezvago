@@ -1,5 +1,6 @@
 ---
 import RandomBox from "../components/RandomBox.tsx";
+import ThemeToggle from "../components/ThemeToggle.astro";
 import "../layouts/Layout.astro";
 ---
 
@@ -10,6 +11,7 @@ import "../layouts/Layout.astro";
     <title>Random album</title>
   </head>
   <body>
+    <ThemeToggle />
     <main
       style="max-width: 900px; margin: 32px auto; padding: 0 16px; display: grid; gap: 18px;"
     >

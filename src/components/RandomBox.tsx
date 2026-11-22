@@ -258,7 +258,7 @@ export default function RandomBox() {
         select {
           padding: 10px 12px;
           border-radius: 12px;
-          border: 1px solid rgba(0,0,0,.2);
+          border: 1px solid var(--border-strong);
           font-size: 14px;
           min-width: 220px;
         }
@@ -266,8 +266,8 @@ export default function RandomBox() {
         .btn {
           padding: 10px 12px;
           border-radius: 12px;
-          border: 1px solid rgba(0,0,0,.2);
-          background: transparent;
+          border: 1px solid var(--border-strong);
+          background: var(--panel);
           cursor: pointer;
         }
 
@@ -277,7 +277,7 @@ export default function RandomBox() {
         .card {
           padding: 14px 16px;
           border-radius: 14px;
-          border: 1px solid rgba(0,0,0,.12);
+          border: 1px solid var(--border);
         }
 
         .title {
@@ -305,18 +305,18 @@ export default function RandomBox() {
           gap:8px;
           padding:6px 10px;
           border-radius:999px;
-          border:1px solid rgba(0,0,0,.12);
+          border: 1px solid var(--border);
           text-decoration:none;
           font-size:13px;
         }
 
-        .pill:hover { border-color: rgba(0,0,0,.25); }
+        .pill:hover { border-color: var(--border-strong); }
 
         .tags { display:flex; gap:8px; flex-wrap:wrap; margin-top:10px; }
         .tag {
           padding: 4px 8px;
           border-radius: 999px;
-          border: 1px solid rgba(0,0,0,.12);
+          border: 1px solid var(--border);
           font-size: 12px;
           opacity: .9;
         }
